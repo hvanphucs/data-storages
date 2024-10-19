@@ -1,0 +1,3338 @@
+[
+    {
+        "id": "1",
+        "question": "We can go out now. It ________________ anymore.",
+        "answers": [
+            "A. isn’t raining",
+            "B. rains",
+            "C. has rained",
+            "D. has been raining"
+        ],
+        "correct_answer": "A. isn’t raining",
+        "explanation": " A\nCăn cứ: cách dùng của thì hiện tại tiếp diễn: Diễn đạt 1 hành động sắp xảy ra trong tương lai gần\n(thường là chắc chắn)\nDịch nghĩa: Chúng ta có thể ra ngoài bây giờ. Trời sẽ không còn mưa nữa.\n"
+    },
+    {
+        "id": "2",
+        "question": "What ________________ in your spare time? Do you have any hobbies?",
+        "answers": [
+            "A. have you done",
+            "B. are you doing",
+            "C. do you do",
+            "D. have you been doing"
+        ],
+        "correct_answer": "C. do you do",
+        "explanation": " C\n- Căn cứ: cách sử dụng của thì hiện tại đơn: diễn tả một thói quen hay hành động diễn ra thường\nxuyên, lặp đi lặp lại ở hiện tại. (làm gì trong thời gian rảnh rỗi).\n- Dịch nghĩa: Bạn thường làm gì trong thời gian rảnh? Bạn có sở thích gì không?\n"
+    },
+    {
+        "id": "3",
+        "question": "Mary usually ________________ me on Fridays, but she didn’t call last Friday.",
+        "answers": [
+            "A. have been calling",
+            "B. calls",
+            "C. is calling",
+            "D. have called"
+        ],
+        "correct_answer": "B. calls",
+        "explanation": " B\nCăn cứ: “usually” là dấu hiệu nhận biết thì hiện tại đơn.\nDịch nghĩa: Mary thường gọi cho tôi vào những ngày thứ sáu, nhưng thứ 6 tuần trước lại không\nthấy cô ấy gọi cho tôi.\n"
+    },
+    {
+        "id": "4",
+        "question": "I ________________ hungry. Let’s have something to eat.",
+        "answers": [
+            "A. am feeling",
+            "B. have felt",
+            "C. feel",
+            "D. have been feeling"
+        ],
+        "correct_answer": "A. am feeling",
+        "explanation": " A\n- Căn cứ vào cách dùng của “feel”: có thể dùng thì “present simple tense” hay “present\ncontinuous tense” khi diễn tả cảm giác của người nào đó vào thời điểm nói.\n*Vế sau dùng “let’s” để chỉ hành động rủ nhau cùng đi làm gì ở thời điểm nói, nên có thể hình\ndung hành động “đang thấy đói” nó cũng đang xảy ra ngay lúc đó luôn, nên chia hiện tại tiếp\n- Dịch nghĩa: Đây là một nhà hàng ngon phải không? Đây có phải là lần đầu tiên bạn đến đây\nkhông?\n"
+    },
+    {
+        "id": "5",
+        "question": "I need a new job. I ________________ the same job for too long.",
+        "answers": [
+            "A. are doing",
+            "B. have done",
+            "C. have been doing",
+            "D. do"
+        ],
+        "correct_answer": "C. have been doing",
+        "explanation": " C\n- Căn cứ vào cách dùng của thì hiện tại hoàn thành tiếp diễn: diễn tả hành động bắt đầu ở quá\nkhứ và tiếp diễn tới hiện tại (nhấn mạnh tính liên tục).\n- Dịch nghĩa: Tôi cần một công việc mới. Tôi đã làm cùng một công việc quá lâu.\n+ “đã làm cùng một công việc” là hành động lặp đi lặp lại, kéo dài đến hiện tại. => Chia thì hiện\ntại hoàn thành tiếp diễn.\n"
+    },
+    {
+        "id": "6",
+        "question": "“You look tired”. “Yes, I ________________ basketball”.",
+        "answers": [
+            "A. plays",
+            "B. is playing",
+            "C. have played",
+            "D. have been playing"
+        ],
+        "correct_answer": "D. have been playing",
+        "explanation": " D\nDịch nghĩa: “Em trông có vẻ mệt mỏi” - \" Vâng nãy giờ em đã chơi bóng rổ.\"\n=> Với vế đầu gợi ý về sự mệt mỏi thì vế sau cần phải nhấn mạnh vào quá trình chơi bóng rổ lâu\ndài trước đó (vì chơi liên tục trong thời gian dài trước đó nên mới mệt), do đó ta dùng thì hiện tại\nhoàn thành tiếp diễn là phù hợp nhất.\n"
+    },
+    {
+        "id": "7",
+        "question": "I would like to see Tina again. It’s been a long time ________________.",
+        "answers": [
+            "A. that I didn’t see her",
+            "B. for I didn’t see her",
+            "C. since I saw her",
+            "D. until I saw\nher"
+        ],
+        "correct_answer": "C. since I saw her",
+        "explanation": " C\n- Căn cứ vào cấu trúc: It is + thời gian + since + V (quá khứ đơn).\n- Dịch nghĩa: Tôi muốn gặp Tina một lần nữa. Đã từ nhiều năm kể từ lần cuối tôi gặp cô ấy.\n+ Loại A, B: vì sai cấu trúc.\n+ Loai D: không hợp nghĩa. (cho đến khi tôi gặp cô ấy).\n=> Chọn C.\n"
+    },
+    {
+        "id": "8",
+        "question": "Bod and Alice have been married ________________.",
+        "answers": [
+            "A. that 20 years",
+            "B. since 20 years",
+            "C. when 20 years",
+            "D. for 20 years"
+        ],
+        "correct_answer": "D. for 20 years",
+        "explanation": " D\n- Căn cứ:\n+ for + khoảng thời gian. Ex: I have learnt English for six years.\n+ since + mốc thời gian. Ex: I have learnt English since 2013.\n- Dịch nghĩa: Bob và Alice đã kết hôn được 20 năm.\n"
+    },
+    {
+        "id": "9",
+        "question": "- I am looking for Paul. You ________________ him?\n- Yes, he was here a minute ago.",
+        "answers": [
+            "A. Have – seen",
+            "B. Did – see",
+            "C. Do – see",
+            "D. Is – seeing"
+        ],
+        "correct_answer": "A. Have – seen",
+        "explanation": " A\n- Căn cứ vào cách dùng của thì hiện tại hoàn thành: diễn tả hành động xảy ra trong quá khứ\nnhưng không rõ thời gian\n- Dịch nghĩa: Tôi đang tìm Paul. Bạn có thấy anh ấy không? - Có, anh ấy đã ở đây một phút\ntrước.\n"
+    },
+    {
+        "id": "10",
+        "question": "Unless she ________________ extra, she will not complete the work.",
+        "answers": [
+            "A. is paying",
+            "B. have been paying",
+            "C. pays",
+            "D. is paid"
+        ],
+        "correct_answer": "D. is paid",
+        "explanation": " D\n- Căn cách dùng của “unless” trong câu điều kiện loại 1:\nUnless + S + V (hiện tại đơn), S + will/ can/ may + V (bare)\n- Dịch nghĩa: Nếu cô ấy không được trả thêm, cô ấy sẽ không hoàn thành công việc.\n=> Vế cần chia mang nghĩa bị động.\n"
+    },
+    {
+        "id": "11",
+        "question": "The house at the end of the street which __________ empty for years has been\nsold.",
+        "answers": [
+            "A. is",
+            "B. have been",
+            "C. is being",
+            "D. has been"
+        ],
+        "correct_answer": "D. has been",
+        "explanation": " D\n- Căn cứ dấu hiệu của thì hiện tại hoàn thành: for + khoảng thời gian.\n- Dịch nghĩa: Căn nhà ở cuối đường mà bị bỏ trống trong nhiều năm đã được bán.\n"
+    },
+    {
+        "id": "12",
+        "question": "All right, you’ll try to fix the television! But I ________________ you know what\nyou’re doing.",
+        "answers": [
+            "A. hope",
+            "B. have hoped",
+            "C. is hoping",
+            "D. have been hoping"
+        ],
+        "correct_answer": "A. hope",
+        "explanation": " A\n=> Key: A. hope\n=> Vì: không có dấu hiệu về thì rõ ràng và dịch theo nghĩa nên để hiện tại đơn\n=> Dịch: Được rồi, bạn sẽ cố gắng sửa tivi! Nhưng tôi hi vọng bạn biết bạn đang làm gì.\n"
+    },
+    {
+        "id": "13",
+        "question": "Who ________________ at the door?",
+        "answers": [
+            "A. knock",
+            "B. is knocking",
+            "C. have been knocking",
+            "D. have knocked"
+        ],
+        "correct_answer": "B. is knocking",
+        "explanation": " B\n=> Key: B. is knocking\n=> Vì: theo cách dùng của thì hiện tại tiếp diễn, diễn tả một sự việc bất thường, đang diễn ra tại\nthời điểm nói\n=> Dịch: Ai đang gõ cửa vậy?\n"
+    },
+    {
+        "id": "14",
+        "question": "How long it ________________ you to get to the library?",
+        "answers": [
+            "A. does – take",
+            "B. have – taken",
+            "C. is – taking",
+            "D. have – been taking"
+        ],
+        "correct_answer": "A. does – take",
+        "explanation": " A\n- Căn cứ vào ngữ cảnh của câu ta chia thì hiện tại đơn.\nCấu trúc:\nIt takes sb time to do st: mất của ai đó bao nhiêu thời gian để làm gì\n- Dịch nghĩa: Mất bao lâu để bạn đi đến thư viện?\n"
+    },
+    {
+        "id": "15",
+        "question": "Many girls want to go to the pub while only a minority ________ to watch TV at\nhome now.",
+        "answers": [
+            "A. is wanting",
+            "B. want",
+            "C. will want",
+            "D. wants"
+        ],
+        "correct_answer": "D. wants",
+        "explanation": " D\nDịch: Ngày nay trong khi nhiều cô gái muốn đến quán rượu thì chỉ có một nhóm ít người muốn\nở nhà xem TV.\n=> “Minority” là một danh từ tập hợp, khi nó đi với “of” thì sẽ chia theo danh từ sau “of”.\nNhưng trường hợp nó đứng một mình, thì nó thường đi với động từ số ít nhưng cũng có thể đi\nvới động từ số nhiều tùy theo hàm ý của người nói. Có hai trường hợp phổ biến sau:\n- Khi danh từ tập hợp được đề cập đến như là các thành viên của một nhóm… thì động từ theo\nsau là số nhiều.\n- Khi danh từ tập hợp được đề cập đến như là một nhóm, một đơn vị riêng rẽ thì động từ theo sau\nlà số ít.\n=> Xét ngữ cảnh trong câu, vì vế trước người ta cũng chỉ nói chung chung với hàm ý một nhóm\nnhiều cô gái, ý nói có nhiều người (nhưng khi dùng “many + N(số nhiều)” thì động từ luôn chia\nsố nhiều) thì vế sau cũng hàm ý chỉ một nhóm người, một tập hợp nào đó được xem như một đơn\nvị riêng lẻ nhưng chỉ có rất ít người, để chỉ hai nhóm người có đặc điểm đối lập nhau chứ không\ncó ý chỉ các cô gái cụ thể nào trong nhóm ấy.\n=> Theo cách dùng thứ hai, ta chia động từ số ít là “wants”.\n"
+    },
+    {
+        "id": "16",
+        "question": "They’ve faxed me I should stay till they _____ a replacement. Well, last time it\ntook two weeks.",
+        "answers": [
+            "A. found",
+            "B. will find",
+            "C. find",
+            "D. had found"
+        ],
+        "correct_answer": "C. find",
+        "explanation": " C\nDịch: Họ đã gửi fax cho tôi bảo tôi nên ở lại cho đến khi họ tìm được người thay thế. Ồ, lần\ntrước phải mất đến hai tuần.\nXét hành động tìm người thay thế chưa xảy ra nên động từ sau “till” chia hiện tại đơn.\n"
+    },
+    {
+        "id": "17",
+        "question": "Let’s have some tea. It ________________ chilly.",
+        "answers": [
+            "A. gets",
+            "B. is getting",
+            "C. have gotten",
+            "D. have been getting"
+        ],
+        "correct_answer": "B. is getting",
+        "explanation": " B\n=> Key: B. is getting\n=> Vì: theo cách dùng của thì hiện tại tiếp diễn, diễn tả một sự thay đổi, một việc đang diễn ra ở\nthời điểm nói\n=> Dịch: Chúng ta hãy uống trà nhé. Thời tiết đang trở lạnh rồi.\n"
+    },
+    {
+        "id": "18",
+        "question": "Don’t talk to him while he ________________.",
+        "answers": [
+            "A. have been reading",
+            "B. reads",
+            "C. is reading",
+            "D. have read"
+        ],
+        "correct_answer": "C. is reading",
+        "explanation": " C\n=> Key: C. is reading\n=> Dựa vào ngữ cảnh của câu và dấu hiệu “while: trong khi” => hiện tại tiếp diễn\n=> Dịch: Đừng nói chuyện với anh ấy trong khi anh ấy đang đọc sách.\n"
+    },
+    {
+        "id": "19",
+        "question": "Ann wants to see you. You ________________ here for ages!",
+        "answers": [
+            "A. have been",
+            "B. are",
+            "C. had been",
+            "D. are being"
+        ],
+        "correct_answer": "A. have been",
+        "explanation": " A\n- Căn cứ: “for + khoảng thời gian” là dấu hiệu nhận biết thì hiện tại hoàn thành.\n- Dịch nghĩa: Ann muốn gặp bạn. Bạn đã ở đây nhiều năm rồi.\n"
+    },
+    {
+        "id": "20",
+        "question": "- Your house is very beautiful. How long you ________________ here?\n- Nearly ten years.",
+        "answers": [
+            "A. did – live",
+            "B. have – been living",
+            "C. do – live",
+            "D. is – living"
+        ],
+        "correct_answer": "B. have – been living",
+        "explanation": " B\n=> Vì: dựa vào câu trả lời về khoảng thời gian và cách dùng của thì hiện tại hoàn thành tiếp diễn\n(diễn tả một hành động bắt đầu ở quá khứ, vẫn còn tiếp tục ở hiện tại và có thể kéo dài đến tương\nlai, nhấn mạnh vào thời gian, quá trình)\n=> Dịch: - Ngôi nhà của bạn rất đẹp. Bạn đã ở đây bao lâu rồi?\n- Gần mười năm.\n"
+    },
+    {
+        "id": "21",
+        "question": "I ________________ to the movies for ages. We used to go a lot.",
+        "answers": [
+            "A. haven’t gone",
+            "B. didn’t go",
+            "C. isn’t going",
+            "D. hadn’t gone"
+        ],
+        "correct_answer": "A. haven’t gone",
+        "explanation": " A\n=> Vì: có dấu hiệu for ages => Dùng thì hiện tại hoàn thành để diễn tả một hành động đã kéo dài\ntừ trong quá khứ đến hiện tại.\n=> Dịch: Tôi đã không tới rạp chiếu phim trong một thời gian dài. Chúng tới đã từng tới đó rất\nnhiều lần.\n"
+    },
+    {
+        "id": "22",
+        "question": "Why are you putting on your coat? You ________________out?",
+        "answers": [
+            "A. Do – go",
+            "B. Have – gone",
+            "C. Had – gone",
+            "D. Are – going"
+        ],
+        "correct_answer": "D. Are – going",
+        "explanation": " D\nDịch: Sao bạn lại mặc áo khoác vào thế? Bạn định ra ngoài à?\nGiải thích:\n- Căn cứ vào dấu hiệu ở hiện tại \"đang mặc áo khoác\", ta suy ra việc “ra ngoài” là có kế hoạch\ntừ trước.\n-> Căn cứ vào cách dùng của thì hiện tại tiếp diễn, diễn tả một hành động chắc chắn sẽ xảy ra vì\ncó kế hoạch từ trước.\n"
+    },
+    {
+        "id": "23",
+        "question": "Look! That plane ________________ toward the airport. It is going to land.",
+        "answers": [
+            "A. flies",
+            "B. have flown",
+            "C. is flying",
+            "D. will fly"
+        ],
+        "correct_answer": "C. is flying",
+        "explanation": " C\n=> Key: C. is flying\n=> Vì: có từ Look! và theo cách dùng của hiện tại tiếp diễn: diễn tả một hành động đang diễn ra\ntại thời điểm nói\n=> Dịch: Nhìn này! Chiếc máy bay đó đang bay về hướng sân bay. Nó sắp hạ cánh\n"
+    },
+    {
+        "id": "24",
+        "question": "Ann is very tired. She________________ tennis for three hours.",
+        "answers": [
+            "A. is playing",
+            "B. will play",
+            "C. plays",
+            "D. has been playing"
+        ],
+        "correct_answer": "D. has been playing",
+        "explanation": " D\n=> Key: D. has been playing\n=> Vì: có for + khoảng thời gian và cách dùng hiện tại hoàn thành tiếp diễn nhấn mạnh vào thời\ngian, quá trình.\n=> Dịch: Ann rất mệt mỏi. She đã chơi tennis trong ba giờ\n"
+    },
+    {
+        "id": "25",
+        "question": "He works in a bank, but he ________________ it very much.",
+        "answers": [
+            "A. doesn’t enjoy",
+            "B. haven’t enjoyed",
+            "C. didn’t enjoy",
+            "D. hadn’t enjoyed"
+        ],
+        "correct_answer": "A. doesn’t enjoy",
+        "explanation": " A\n- Căn cứ: cách sử dụng của thì hiện tại đơn: diễn tả thói quen, sở thích, quan điểm của người nói.\n- Dịch nghĩa: Anh ấy làm việc ở một ngân hàng, nhưng anh ấy không thích công việc này lắm.\n"
+    },
+    {
+        "id": "26",
+        "question": "I ________________ well lately. Maybe I should go to the doctor.",
+        "answers": [
+            "A. didn’t feel",
+            "B. won’t feel",
+            "C. haven’t been feeling",
+            "D. am not feeling"
+        ],
+        "correct_answer": "C. haven’t been feeling",
+        "explanation": " C\n- Căn cứ: \"lately\" là dấu hiệu nhận biết thì hiện tại hoàn thành. Câu này nhấn mạnh tính liên tục\ncủa hành động ta dùng thì hiện tại hoàn thành tiếp diễn.\n- Dịch nghĩa: Gần đây tôi không cảm thấy khỏe. Có lẽ tôi nên đi khám bác sĩ.\n"
+    },
+    {
+        "id": "27",
+        "question": "I ____________ my homework for two hours, but I _____________ yet.",
+        "answers": [
+            "A. have done – haven’t finished",
+            "B. is doing – isn’t finishing",
+            "C. will do – will not finish",
+            "D. have been doing – haven’t finished"
+        ],
+        "correct_answer": "D. have been doing – haven’t finished",
+        "explanation": " D\n=> Key: D. have been doing – haven’t finished\n=> Vì: do có dấu hiệu for two hours và yet nên chia thì hiện tại hoàn thành, mà câu đầu tiên\nnhấn mạnh vào thời gian, quá trình làm nên để hiện tại hoàn thành tiếp diễn, câu 2 nhân mạnh\nvào kết quả nên chỉ cần chia hiện tại hoàn thành\n=> Dịch: Tôi đã làm bài tập về nhà của tôi trong hai giờ, nhưng tôi vẫn chưa xong.\n"
+    },
+    {
+        "id": "28",
+        "question": "Let’s take our travel chess set in case we _________ bored on the train.",
+        "answers": [
+            "A. get",
+            "B. are getting",
+            "C. got",
+            "D. have got"
+        ],
+        "correct_answer": "A. get",
+        "explanation": " A\n=> Vì: sau in case luôn chia thì hiện tại đơn\n=> Dịch: Hãy đem theo bộ cờ du lịch của chúng ta trong trường hợp chúng ta thấy chán trên tàu\n"
+    },
+    {
+        "id": "29",
+        "question": "We ________________ get in touch with our customers by post.",
+        "answers": [
+            "A. recently",
+            "B. hardly",
+            "C. lately",
+            "D. latterly"
+        ],
+        "correct_answer": "B. hardly",
+        "explanation": " B\nA. recently: gần đây\nB. hardly: hầu như không, ít khi\nC. lately: gần đây\nD. latterly: gần đây, mới đây\n=> Căn cứ vào động từ “get” chia ở thì hiện tại đơn nên ta loại đáp án A,C, D.\n- Dịch nghĩa: Chúng tôi ít khi liên lạc với khách hàng qua đường bưu điện.\n"
+    },
+    {
+        "id": "30",
+        "question": "We have been married ________________.",
+        "answers": [
+            "A. over twenty years",
+            "B. over twenty years ago",
+            "C. for over twenty years",
+            "D. since over twenty years"
+        ],
+        "correct_answer": "C. for over twenty years",
+        "explanation": " C\n- Căn cứ: “for + khoàng thời gian”; “since + mốc thời gian”.\n- Dịch nghĩa: Chúng tôi đã kết hôn hơn hai mươi năm.\n"
+    },
+    {
+        "id": "31",
+        "question": "Melanie _________ her hand. It’s bleeding heavily.",
+        "answers": [
+            "A. has cut",
+            "B. is cutting",
+            "C. cut",
+            "D. cuts"
+        ],
+        "correct_answer": "A. has cut",
+        "explanation": " A\n- Dịch: Melanie đã bị đứt tay. Máu đang chảy rất nhiều.\n=> Hành động đứt tay đã xảy ra trong quá khứ nhưng để lại hậu quả ở hiện tại nên ta chia ở thì\nhiện tại hoàn thành.\n"
+    },
+    {
+        "id": "32",
+        "question": "“When will Mary be able to leave hospital?” – “Don’t be so impatient. We cannot\nrelease her before we _________ the last test.”",
+        "answers": [
+            "A. have completed",
+            "B. will have completed",
+            "C. will complete",
+            "D. completed"
+        ],
+        "correct_answer": "A. have completed",
+        "explanation": " A\nDịch nghĩa:\n- “Khi nào Mary có thể xuất viện?”\n- “Đừng nôn nóng thế. Chúng tôi không thể cho cô ấy xuất viện trước khi chúng tôi khám xong\ncho cô ấy lần cuối.”\n=> Mệnh đề trạng ngữ chỉ thời gian before không chia thì tương lai nên ta loại phương án B, C.\n=> Xét nghĩa của câu ta thấy việc khám cho Mary chưa diễn ra nên ta không thể chia thì quá khứ\nđơn. Do đó, loại phương án D.\n"
+    },
+    {
+        "id": "33",
+        "question": "The Amazon River ________________ into the Atlantic Ocean.",
+        "answers": [
+            "A. flows",
+            "B. has flowed",
+            "C. is flowing",
+            "D. will flow"
+        ],
+        "correct_answer": "A. flows",
+        "explanation": " A\n=> Key: A. flows\n=> Vì: cách dùng của hiện tại đơn: diễn tả một sự thật hiển nhiên\n=> Dịch: Sông Amazon chảy vào Đại Tây Dương\n"
+    },
+    {
+        "id": "34",
+        "question": "My parents live in London. They ________________ there all their lives.",
+        "answers": [
+            "A. are living",
+            "B. had lived",
+            "C. have lived",
+            "D. will live"
+        ],
+        "correct_answer": "C. have lived",
+        "explanation": " C\n=> Key: C. have lived\n=> Vì: cách dùng của thì hiện tại hoàn thành: diễn tả một hành động bắt đầu ở quá khứ, vẫn còn\ntiếp tục ở hiện tại và có thể kéo dài đến tương lai\n=> Dịch: Bố mẹ tôi sống ở London. Họ đã sống cả cuộc đời ở đó.\n"
+    },
+    {
+        "id": "35",
+        "question": "Where have you been? I ________________ for you for the last half hour.",
+        "answers": [
+            "A. am looking",
+            "B. have been looking",
+            "C. will be looking",
+            "D. look"
+        ],
+        "correct_answer": "B. have been looking",
+        "explanation": " B\n=> Key: B. have been looking\n=> Vì: : có for + khoảng thời gian => hiện tại hoàn thành. Khi muốn nhấn mạnh tính liên tục của\nhành động ta dùng thì hiện tại hoàn thành tiếp diễn;\n=> Dịch: Bạn đã ở đâu? Tôi đã tìm bạn trong nửa giờ qua.\n"
+    },
+    {
+        "id": "36",
+        "question": "My brother is an actor. He ________________ in several movies.",
+        "answers": [
+            "A. appeared",
+            "B. had appeared",
+            "C. has appeared",
+            "D. appears"
+        ],
+        "correct_answer": "C. has appeared",
+        "explanation": " C\n"
+    },
+    {
+        "id": "37",
+        "question": "Please don’t bother him now. He ________________.",
+        "answers": [
+            "A. is working",
+            "B. has been working",
+            "C. had been working",
+            "D. was working"
+        ],
+        "correct_answer": "A. is working",
+        "explanation": " A\n- Dịch: Bây giờ đừng làm phiền anh ấy. Anh ấy đang làm việc.\n=> Vế trước đã cho thấy dấu hiệu hành động đang xảy ra tại thời điểm nói (now), do đó ta chia\nđộng từ ở thì hiện tại tiếp diễn.\n"
+    },
+    {
+        "id": "38",
+        "question": "I ________ an interesting book at the moment. I will lend it to you when I\n_____________ it.",
+        "answers": [
+            "A. am reading – have finished",
+            "B. read – am finishing",
+            "C. have read – am finishing",
+            "D. read – will finish"
+        ],
+        "correct_answer": "A. am reading – have finished",
+        "explanation": " A\n- Căn cứ: “at the moment” là dấu hiệu nhận biết thì hiện tại tiếp diễn.\n- Dịch nghĩa: Tại thời điểm này, tôi đang đọc một cuốn sách thú vị. Tôi sẽ cho bạn mượn nó khi\ntôi đọc xong.\n"
+    },
+    {
+        "id": "39",
+        "question": "Ha never ______________fishing in the winter but she always _____________ it\nin the summer.",
+        "answers": [
+            "A. goes – does",
+            "B. has gone – done",
+            "C. go – do",
+            "D. was gone – done"
+        ],
+        "correct_answer": "A. goes – does",
+        "explanation": " A\n- Căn cứ: trạng từ “never” và “always” là dấu hiệu nhận biết thì hiện tại đơn. Đồng thời, câu\nđang mô tả một thói quen lặp đi lặp lại của một ai đó nên ta dùng thì hiện tại đơn.\n- Dịch nghĩa: Hà không bao giờ đi câu cá vào mùa đông nhưng cô ấy luôn luôn làm vào mùa hè.\n"
+    },
+    {
+        "id": "40",
+        "question": "We can win only if we remain united, so we must support them the moment they\n____ on strike.",
+        "answers": [
+            "A. will have gone",
+            "B. will go",
+            "C. go",
+            "D. went"
+        ],
+        "correct_answer": "C. go",
+        "explanation": " C\nTạm dịch: Chúng ta chỉ có thể thắng nếu chúng ta hợp sức lại, vì vậy chúng ta phải hỗ trợ họ khi\nhọ đình công.\n=> Việc đình công chưa xảy ra nên ta loại phương án D (quá khứ đơn)\n=> The moment = when. Mênh đề trạng ngữ chỉ thời gian when không chia thì tương lai nên\nloại A, B.\nDo đó, đáp án là C\n"
+    },
+    {
+        "id": "41",
+        "question": "I am sorry. I _________________ that fellow’s name already.",
+        "answers": [
+            "A. forgot",
+            "B. have forgotten",
+            "C. have been forgetting",
+            "D. forget"
+        ],
+        "correct_answer": "B. have forgotten",
+        "explanation": " B\n- Căn cứ: “already” là dấu hiệu nhận biết thì hiện tại hoàn thành.\n- Dịch nghĩa: Tôi xin lỗi. Tôi đã quên tên đồng nghiệp đó rồi.\n"
+    },
+    {
+        "id": "42",
+        "question": "It usually ________________ very much in that part of the United States.",
+        "answers": [
+            "A. is raining",
+            "B. rained",
+            "C. rains",
+            "D. have rained"
+        ],
+        "correct_answer": "C. rains",
+        "explanation": " C\n- Căn cứ: “usually” là dấu hiệu nhận biết thì hiện tại đơn.\n- Dịch nghĩa: Trời thường mưa nhiều ở phần kia của nước Mỹ.\n"
+    },
+    {
+        "id": "43",
+        "question": "Look! A man _________________ after the train. He wants to catch it.",
+        "answers": [
+            "A. runs",
+            "B. have been running",
+            "C. will run",
+            "D. is running"
+        ],
+        "correct_answer": "D. is running",
+        "explanation": " D\n- Căn cứ: “Look! ” là dấu hiệu nhận biết thì hiện tại tiếp diễn.\n- Dịch nghĩa: Nhìn kìa! Một người đàn ông đang chạy sau tàu hỏa. Anh ấy muốn bắt kịp nó.\n"
+    },
+    {
+        "id": "44",
+        "question": "Hoang ____ his email four times a week in order not to miss anything important.",
+        "answers": [
+            "A. checks",
+            "B. will check",
+            "C. is checking",
+            "D. check"
+        ],
+        "correct_answer": "A. checks",
+        "explanation": " A\nGiải thích: ta có cụm “four times a week” = bốn lần trong tuần, chỉ tần xuất công việc được làm\n→ sử dụng thì hiện tại đơn.\nDịch: Hoàng kiểm tra email bốn lần trong tuần để không bỏ lỡ bất kì thứ gì quan trọng\n"
+    },
+    {
+        "id": "45",
+        "question": "Nowadays, people ____ social networks with more and more caution.",
+        "answers": [
+            "A. uses",
+            "B. are using",
+            "C. used",
+            "D. use"
+        ],
+        "correct_answer": "D. use",
+        "explanation": " D\nGiải thích: Ta có trạng từ “nowadays”: ngày nay-> diễn tả thời điểm trong thời điểm hiện tại về\nmột xu thế thịnh thành -> ta dùng thì hiện tại đơn\n*Ta không dùng đáp án B vì nó không phải là hành động xảy ra tại thời điểm nói, mà nó được\nxem như một sự thật trong thời điểm hiện tại và về sau nữa.\nDịch: Ngày nay, mọi người sử dụng mạng xã hội càng thận trọng hơn.\n"
+    },
+    {
+        "id": "46",
+        "question": "At the moment, my sister ____ her homework, my brother ____ games.",
+        "answers": [
+            "A. is making - is playing",
+            "B. is doing - is playing",
+            "C. does - plays",
+            "D. makes - is playing"
+        ],
+        "correct_answer": "B. is doing - is playing",
+        "explanation": " B\nGiải thích: “at the moment” là dấu hiệu nhận biết thì hiện tại tiếp diễn, hai hành động diễn ra\nsong song → thì hiện tại tiếp diễn\n+ Ta dùng cụm từ cố định: Do homework: làm bài tập về nhà\nDịch: Ngay lúc này, chị tôi đang làm bài tập về nhà và em trai tôi đang chơi trò chơi điện tử.\n"
+    },
+    {
+        "id": "47",
+        "question": "It’s 7.00 p.m. now and we ____ meal together. We usually ____ dinner at that time.",
+        "answers": [
+            "A. have - eat",
+            "B. have - are eating",
+            "C. are having - eat",
+            "D. are having - are eating"
+        ],
+        "correct_answer": "C. are having - eat",
+        "explanation": " C\nGiải thích: “7.00 p.m. now” → một điểm thời gian nhất định trong hiện tại → thì hiện tại tiếp\ndiễn.\n“usually” → dấu hiệu nhận biết thì hiện đơn\nDịch: Bây giờ là 7 giờ tối và chúng tôi đang ăn tối với nhau. Chúng tôi thường ăn tối vào giờ\nnày.\n"
+    },
+    {
+        "id": "48",
+        "question": "I ____ a bike to school every day but today I ____ to school by bus because it was\nstolen yesterday.",
+        "answers": [
+            "A. rode - went",
+            "B. ride - am going",
+            "C. ride - go",
+            "D. is riding - am going"
+        ],
+        "correct_answer": "B. ride - am going",
+        "explanation": " B\nTạm dịch: Hàng ngày tôi đi xe đạp đến trường nhưng hôm nay tôi đến trường bằng xe buýt bởi vì\nxe đạp của tôi bị mất trộm hôm qua.\n- Diễn tả thói quen ta chia thì hiện tại đơn -> ride\n-Thay đổi của thói quen ta chia thì hiện tại tiếp diễn -> am going\n"
+    },
+    {
+        "id": "49",
+        "question": "That Hoa ____ in class affects other students around.",
+        "answers": [
+            "A. always talk",
+            "B. is always talking",
+            "C. always talks",
+            "D. always talking"
+        ],
+        "correct_answer": "B. is always talking",
+        "explanation": " B\nGiải thích:\n- thì hiện tại tiếp diễn dùng để diễn tả sự kêu ca, phàn nàn ( be + always + Ving)\nDịch: Việc Hoa thường xuyên nói chuyện trong lớp ảnh hưởng đến các bạn xung quanh.\n"
+    },
+    {
+        "id": "50",
+        "question": "Hoang and Phong ____ football as they’re having class now.",
+        "answers": [
+            "A. don’t play",
+            "B. are playing",
+            "C. doesn’t play",
+            "D. aren’t playing"
+        ],
+        "correct_answer": "D. aren’t playing",
+        "explanation": " D\nGiải thích:\n- Căn cứ vào \" now\" => chia thì hiện tại tiếp diễn\nDịch: Hoàng và Phong không đá bóng bây giờ vì họ đang phải học.\n"
+    },
+    {
+        "id": "51",
+        "question": "Hoa usually ____ charge of doing the washing-up in her family.",
+        "answers": [
+            "A. takes",
+            "B. is taking",
+            "C. take",
+            "D. will take"
+        ],
+        "correct_answer": "A. takes",
+        "explanation": " A\nGiải thích: “usually” trạng từ chỉ tần xuất, dấu hiệu nhận biết thì hiện tại đơn.\nTake charge: chịu trách nhiệm\nDịch: Hoa thường chịu trách nhiệm việc rửa bát trong gia đình cô ấy.\n"
+    },
+    {
+        "id": "52",
+        "question": "Our friends ____ for the fashion show now.",
+        "answers": [
+            "A. is preparing",
+            "B. are preparing",
+            "C. prepares",
+            "D. prepare"
+        ],
+        "correct_answer": "B. are preparing",
+        "explanation": " B\nGiải thích: “now” là dấu hiệu nhận biết thì hiện tại tiếp diễn\nDịch: Bạn của chúng tôi đang chuẩn bị cho một buổi biểu diễn thời trang bây giờ.\n"
+    },
+    {
+        "id": "53",
+        "question": "All staff in this restaurant ____ an urgent meeting right now.",
+        "answers": [
+            "A. are attending",
+            "B. is attending",
+            "C. attends",
+            "D. attend"
+        ],
+        "correct_answer": "A. are attending",
+        "explanation": " A\nGiải thích: “right now”: ngay bây giờ → dấu hiệu nhận biết thì hiện tại tiếp diễn.\nDịch: Tất cả nhân viên của nhà hàng này đang có mặt tại một cuộc họp khẩn ngay bây giờ.\n"
+    },
+    {
+        "id": "54",
+        "question": "After the physics lesson, the children know that water ____ at 100 degrees C.",
+        "answers": [
+            "A. will boil",
+            "B. is boiling",
+            "C. boils",
+            "D. boil"
+        ],
+        "correct_answer": "C. boils",
+        "explanation": " C\nGiải thích:\n- thì hiện tại đơn dùng để diễn tả chân lí, sự thật đúng\n- căn cứ vào “water” là danh từ không đếm được nên động từ chia ở số ít\nDịch: Sau tiết học môn vật lý, bọn trẻ biết rằng nước sôi ở mức 100 độ C.\n"
+    },
+    {
+        "id": "55",
+        "question": "My mom ____ to the supermarket every Sunday for shopping.",
+        "answers": [
+            "A. goes",
+            "B. go",
+            "C. is going",
+            "D. are going"
+        ],
+        "correct_answer": "A. goes",
+        "explanation": " A\nGiải thích: “every Sunday” chỉ tần suất thực hiện hành động → hiện tại đơn\nDịch: Mẹ tôi đi siêu thị chủ nhật hành tuần để mua đồ.\n"
+    },
+    {
+        "id": "56",
+        "question": "Look! Minh ____ on stage. She looks so beautiful.",
+        "answers": [
+            "A. sings",
+            "B. are singing",
+            "C. is singing",
+            "D. sang"
+        ],
+        "correct_answer": "C. is singing",
+        "explanation": " C\nGiải thích: Động từ chỉ hình thái “Look” → hiện tại tiếp diễn\nDịch: Nhìn kìa! Minh đang hát trên sân khấu. Cô ấy trông thật xinh đẹp.\n"
+    },
+    {
+        "id": "57",
+        "question": "Bich sometimes ____ chicken noodle soup for breakfast.",
+        "answers": [
+            "A. are having",
+            "B. is having",
+            "C. have",
+            "D. has"
+        ],
+        "correct_answer": "D. has",
+        "explanation": " D\nGiải thích: trạng từ tần xuất “sometimes”, hành động mô tả một thói quen → hiện tại đơn.\nDịch: Bích thỉnh thoảng ăn phở gà vào bữa sáng.\n"
+    },
+    {
+        "id": "58",
+        "question": "Who ____ the guitar in that room, Hoa?",
+        "answers": [
+            "A. playing",
+            "B. is playing",
+            "C. play",
+            "D. plays"
+        ],
+        "correct_answer": "B. is playing",
+        "explanation": " B\nGiải thích: một hành động đang diễn ra ngay tại thời điểm nói → hiện tại tiếp diễn\nDịch: Ai đàn chơi đàn ghi-ta trong phòng đó vậy, Hoa?\n"
+    },
+    {
+        "id": "59",
+        "question": "Jenny often ____ jeans and T-shirt at school but she ____ a gorgeous dress today.",
+        "answers": [
+            "A. wears - is wearing",
+            "B. is wearing - wears",
+            "C. wear - is wearing",
+            "D. wears - wears"
+        ],
+        "correct_answer": "A. wears - is wearing",
+        "explanation": " A\nGiải thích: Mệnh đề đầu tiên có trạng từ tần xuất “often” →hiện tại đơn\nMệnh đề sau “but” có trạng từ thời gian “today”, sự việc được nói đến trong khoảng thời gian\nxung quanh thời điểm nói → hiện tại tiếp diễn\n"
+    },
+    {
+        "id": "60",
+        "question": "First thing in the morning, I ____ a cup of milk tea.",
+        "answers": [
+            "A. has",
+            "B. am having",
+            "C. have",
+            "D. will have"
+        ],
+        "correct_answer": "C. have",
+        "explanation": " C\nGiải thích: “First thing in the morning” = điều đầu tiên trong buổi sáng → chỉ một thói quen →\nhiện tại đơn.\nDịch: Điều đầu tiên trong buổi sáng, tôi uống một cốc trà sữa.\n"
+    },
+    {
+        "id": "61",
+        "question": "Ms. Kim ____ very well when she’s under pressure.",
+        "answers": [
+            "A. not work",
+            "B. don’t work",
+            "C. isn’t working",
+            "D. doesn’t work"
+        ],
+        "correct_answer": "D. doesn’t work",
+        "explanation": " D\nGiải thích: Mệnh đề sau “when” là hiện tại đơn, diễn tả một đặc điểm, tính chất của con\nngười/sự vật/hiện tượng → hiện tại đơn\nDịch: Cô Kim làm việc không tốt khi cô ấy bị áp lực.\n"
+    },
+    {
+        "id": "62",
+        "question": "I’m sorry. Lan is busy now. She ____ her document on the second floor.",
+        "answers": [
+            "A. are checking",
+            "B. check",
+            "C. checks",
+            "D. is checking"
+        ],
+        "correct_answer": "D. is checking",
+        "explanation": " D\nGiải thích: có “now” ở mệnh đề đầu → hiện tại tiếp diễn\nDịch: Tôi xin lỗi, Lan đang bây giờ đang bận. Cô ấy đang kiểm tra tài liệu ở tầng hai.\n"
+    },
+    {
+        "id": "63",
+        "question": "Hurry up, Linh. Other friends ____ for us.",
+        "answers": [
+            "A. are waiting",
+            "B. waits",
+            "C. wait",
+            "D. is waiting"
+        ],
+        "correct_answer": "A. are waiting",
+        "explanation": " A\nGiải thích: “Hurry up” = nhanh lên → lời thúc giục → hiện tại tiếp diễn\nDịch: Nhanh lên, Linh. Những bạn khác đang đợi chúng ta.\n"
+    },
+    {
+        "id": "64",
+        "question": "My clothes are not in the room. They _______________ them away.",
+        "answers": [
+            "A. take",
+            "B. have taken",
+            "C. took",
+            "D. are taking"
+        ],
+        "correct_answer": "B. have taken",
+        "explanation": " B\nGiải thích: Hành động đã xảy ra và còn để lại kết quả ở hiện tại → hiện tại hoàn thành\nDịch: Quần áo của tôi không còn trong phòng. Họ vừa đem chúng đi rồi.\n"
+    },
+    {
+        "id": "65",
+        "question": "She ________________ for 10 hours! You must wake her up.",
+        "answers": [
+            "A. sleeps",
+            "B. is sleeping",
+            "C. has been sleeping",
+            "D. slept"
+        ],
+        "correct_answer": "C. has been sleeping",
+        "explanation": " C\nGiải thích: Hành động đã xảy ra trong quá khứ vã vẫn đang tiếp tục xảy ra ở hiện tại trong một\nkhoảng thời gian dài → hiện tại hoàn thành tiếp diễn\nDịch: Cô ấy đã ngủ được 10 tiếng đồng hồ rồi. Bạn cần gọi cô ấy dậy.\n"
+    },
+    {
+        "id": "66",
+        "question": "David ____________ the TV set at the moment. He _______________at it for one\nhour or so.",
+        "answers": [
+            "A. is repairing/ has worked",
+            "B. repairs/has been working",
+            "C. has repaired/has been working",
+            "D. repairs/worked"
+        ],
+        "correct_answer": "A. is repairing/ has worked",
+        "explanation": " A\nGiải thích: Mệnh đề đầu: “at the moment” → dấu hiệu nhận biết thì hiện tại tiếp diễn → loại\nB,C,D.\nMệnh đề sau: sử dụng hiện tại hoàn thành mô tả hành động đã xảy ra trong quá khứ kéo dài đến\nhiện tại, dấu hiệu nhận biết “for one hour or so”.\nDịch: David đang chữa đầu TV. Anh đã phải sửa nó được 1 tiếng đồng hồ hoặc hơn.\n"
+    },
+    {
+        "id": "67",
+        "question": "David _______________his hands. He just _______________ the TV set.",
+        "answers": [
+            "A. washes/has just repaired",
+            "B. is washing/has just been repairing",
+            "C. is washing/ has just repaired",
+            "D. has washed/ has just repaired"
+        ],
+        "correct_answer": "C. is washing/ has just repaired",
+        "explanation": " C\nGiải thích: Mệnh đề đầu: hành động đang diễn ra tại thời điểm nói.\nMệnh đề sau: “just” → dấu hiệu nhận biết hiện tại hoàn thành. Hành động sửa TV đã xảy ra và\nvừa mới có kết quả ở hiện tại.\nDịch: David đang rửa tay. Anh ấy vừa mới sửa ti vi.\n"
+    },
+    {
+        "id": "68",
+        "question": "Why _____________? _______________ you his anecdotes?",
+        "answers": [
+            "A. are you laughing/has Jim told",
+            "B. are you laughing/has Jim been telling",
+            "C. have you laughed/ has Jim told",
+            "D. have you laughed/ has Jim been telling"
+        ],
+        "correct_answer": "B. are you laughing/has Jim been telling",
+        "explanation": " B\nGiải thích: + Hành động mọi người đang cười xảy ra ngay tại thời điểm nói → hiện tại tiếp\ndiễn.\n+ Câu chuyện đó đã được kể và để lại kết quả hiện tại → chia hiện tại hoàn thành. Tuy nhiên, ở\nđây nhằm ý nhấn mạnh quá trình của hành động “kể chuyện” nó kéo dài từ trước, cho đến khi có\nhành động “cười” nên ta dùng thì hiện tại hoàn thành tiếp diễn.\nDịch: Tại sao tất cả mọi người đều cười? Jim vừa kể câu chuyện vặt của anh ta à?\n"
+    },
+    {
+        "id": "69",
+        "question": "She passed her examination because she ________________ very hard.",
+        "answers": [
+            "A. studied",
+            "B. was studying",
+            "C. had been studying",
+            "D. studies"
+        ],
+        "correct_answer": "C. had been studying",
+        "explanation": " C\n- Dịch: Cô ấy đã vượt qua kì thi bởi vì cô ấy học tập chăm chỉ.\n=> Do học hành chăm chỉ mới thi đỗ.\n( Diễn đạt hành động là nguyên nhân của một điều gì đó trong quá khứ ta dùng thì quá khứ hoàn\nthành tiếp diễn.)\n"
+    },
+    {
+        "id": "70",
+        "question": "You ________________ out last night or were you tired?",
+        "answers": [
+            "A. Did – went",
+            "B. Had – gone",
+            "C. Did – go",
+            "D. Had – been going"
+        ],
+        "correct_answer": "C. Did – go",
+        "explanation": " C\n- Dịch: Bạn đã đi đâu tối qua hay bạn mệt?\n- Căn cứ vào “last night” nên động từ chia thì quá khứ đơn\n"
+    },
+    {
+        "id": "71",
+        "question": "This time yesterday I ________________ tennis with my classmates.",
+        "answers": [
+            "A. played",
+            "B. was playing",
+            "C. had played",
+            "D. would play"
+        ],
+        "correct_answer": "B. was playing",
+        "explanation": " B\n- Căn cứ vào: “This time / at this time + mốc thời gian quá khứ” => ta chia thì quá khứ tiếp diễn.\n- Dịch nghĩa: Thời điểm này ngày hôm qua, tôi đang chơi quần vợt với những người bạn cùng\nlớp của tôi.\n"
+    },
+    {
+        "id": "72",
+        "question": "Nicole ________________ television a lot when she ________________ sick last\nyear.",
+        "answers": [
+            "A. watched – was",
+            "B. had watched – had been",
+            "C. was watching – was",
+            "D. had been watching – was"
+        ],
+        "correct_answer": "A. watched – was",
+        "explanation": " A\nXét các đáp án => ở đây chỉ dùng các thì quá khứ.\n=> Nội dung câu này chỉ một hành động lặp đi lặp lại trong một giai đoạn nào đó ở quá khứ, nên\nta chỉ dùng thì quá khứ đơn cho cả 2 vế.\n=> Không phân định hành động nào xảy ra trước, hành động nào sau nên không dùng các thì\nhoàn thành.\n=> Không phải 1 hành động đang xảy ra thì hành động khác chen vào, nên ta không dùng thì tiếp\ndiễn.\n=> Chốt lại ta được đáp án A.\nDịch: Năm ngoái trong lúc bệnh, Nicole xem TV rất nhiều.\n"
+    },
+    {
+        "id": "73",
+        "question": "Mary ________________ home when she met Dave.",
+        "answers": [
+            "A. came",
+            "B. had come",
+            "C. had been coming",
+            "D. was coming"
+        ],
+        "correct_answer": "D. was coming",
+        "explanation": " D\n- Căn cứ vào: mệnh đề trạng ngữ chỉ thời gian.\nS + V (quá khứ tiếp diễn) + when + S+ V (quá khứ đơn).\n(Diễn tả một hành động đang xảy ra trong quá khứ thì có hành động khác xen vào).\n- Dịch nghĩa: Khi Mary đang về nhà thì cô ấy gặp Dave.\n"
+    },
+    {
+        "id": "74",
+        "question": "The doorbell ________________ while I ________________ a shower.",
+        "answers": [
+            "A. was ringing – took",
+            "B. rang – was taking",
+            "C. had rung – took",
+            "D. had been ringing – took"
+        ],
+        "correct_answer": "B. rang – was taking",
+        "explanation": " B\n- Căn cứ vào: mệnh đề trạng ngữ chỉ thời gian.\nS + V (quá khứ đơn) + while + S+ V (quá khứ tiếp diễn).\n(Diễn tả một hành động đang xảy ra trong quá khứ thì có hành động khác xen vào).\n- Dịch nghĩa: Chuông cửa đã reo lên trong khi tôi đang tắm.\n"
+    },
+    {
+        "id": "75",
+        "question": "When I was young, I ________________ to be a pilot.",
+        "answers": [
+            "A. wanted",
+            "B. had wanted",
+            "C. would want",
+            "D. wants"
+        ],
+        "correct_answer": "A. wanted",
+        "explanation": " A\n- Dịch: Khi tôi còn trẻ, tôi muốn trở thành phi công.\n=> Kể về một hồi ức chia thì quá khứ đơn\n"
+    },
+    {
+        "id": "76",
+        "question": "The war ___________________ out three years ago.",
+        "answers": [
+            "A. was breaking",
+            "B. had broken",
+            "C. broke",
+            "D. have been breaking"
+        ],
+        "correct_answer": "C. broke",
+        "explanation": " C\n- Căn cứ vào: “three years ago” là dấu hiệu nhận biết thì quá khứ đơn.\n- Dịch nghĩa: Chiến tranh đã nổ ra ba năm trước.\n"
+    },
+    {
+        "id": "77",
+        "question": "When he was young, he ___________________ in the army.",
+        "answers": [
+            "A. had been serving",
+            "B. serves",
+            "C. have served",
+            "D. served"
+        ],
+        "correct_answer": "D. served",
+        "explanation": " D\n- Dịch: Khi anh ấy còn trẻ, anh ấy đã đã phục vụ trong quân đội.\n=> kể về một hồi ức => chia thì quá khứ đơn\n"
+    },
+    {
+        "id": "78",
+        "question": "She often goes to school by bike but yesterday she ____________________ by\nbus.",
+        "answers": [
+            "A. travelled",
+            "B. have been travelling",
+            "C. had travelled",
+            "D. travels"
+        ],
+        "correct_answer": "A. travelled",
+        "explanation": ": A.\nDịch nghĩa: Cô ấy thường đến trường bằng xe đạp nhưng ngày hôm qua cô ấy đi xe buýt.\n"
+    },
+    {
+        "id": "79",
+        "question": "He ___________________ a cup of coffee every morning many years ago.",
+        "answers": [
+            "A. have been drinking",
+            "B. drank",
+            "C. had drunk",
+            "D. was drinking"
+        ],
+        "correct_answer": "B. drank",
+        "explanation": " B\n- Căn cứ vào: “thời gian + ago” là dấu hiệu nhận biết thì quá khứ đơn.\n=> Loại đáp án A ngay vì nó không liên quan gì đến hiện tại. Đó là thói quen xảy ra và kết thúc\nhoàn toàn trong quá khứ rồi\n- Không dùng thì quá khứ hoàn thành đứng riêng lẻ một mệnh đề như vậy, nó luôn phải đi kèm\nvới một mệnh đề khác hoặc một mốc thời gian khác trong quá khứ, loại C\n- Không có dấu hiệu cụ thể về thời gian trong quá khứ để chia quá khứ tiếp diễn, loại D\n- Dịch nghĩa: Cách đây nhiều năm trước, anh ấy uống một cốc cà phê mỗi buổi sáng.\n"
+    },
+    {
+        "id": "80",
+        "question": "Yesterday she ______________ to pay me for my helping her but I didn’t accept.",
+        "answers": [
+            "A. will offer",
+            "B. was offering",
+            "C. had offered",
+            "D. offered"
+        ],
+        "correct_answer": "D. offered",
+        "explanation": " D\n- Căn cứ vào: “yesterday” là dấu hiệu nhận biết thì quá khứ đơn.\n- Dịch nghĩa: Hôm qua cô ấy đề nghị trả tiền cho tôi vì tôi đã giúp cô ấy nhưng tôi đã không\nchấp nhận.\n"
+    },
+    {
+        "id": "81",
+        "question": "There ___________________ a lot of grasses in the garden last summer.",
+        "answers": [
+            "A. had been",
+            "B. were",
+            "C. have been",
+            "D. will be"
+        ],
+        "correct_answer": "B. were",
+        "explanation": " B\n- Căn cứ vào: “last summer” là dấu hiệu nhận biết thì quá khứ đơn.\n- Dịch nghĩa: Có rất nhiều cỏ ở trong vườn hè năm ngoái.\n"
+    },
+    {
+        "id": "82",
+        "question": "It’s time we __________________ something to help him.",
+        "answers": [
+            "A. will do",
+            "B. had done",
+            "C. did",
+            "D. was doing"
+        ],
+        "correct_answer": "C. did",
+        "explanation": " C\n- Căn cứ vào cấu trúc: It’s time + S + V (quá khứ đơn). (Đã đến lúc ai đó phải làm gì).\n- Dịch nghĩa: Đã đến lúc chúng ta làm gì đó để giúp đỡ anh ấy.\n"
+    },
+    {
+        "id": "83",
+        "question": "Mr Brown ___________________ in Paris when the Second World War broke\nout.",
+        "answers": [
+            "A. lived",
+            "B. was living",
+            "C. had lived",
+            "D. will live"
+        ],
+        "correct_answer": "B. was living",
+        "explanation": " B\n- Dịch: Khi chiến tranh thế giới thứ hai nổ ra, ông Brown đang sống ở Paris.\n=> Diễn tả hành động đang xảy ra thì có hành động khác xen vào. Hành động “sống”xảy ra trước\nnên ta chia thì quá khứ tiếp diễn.\n"
+    },
+    {
+        "id": "84",
+        "question": "I and my mom __________________ comic at this time last night.",
+        "answers": [
+            "A. read",
+            "B. had been reading",
+            "C. have read",
+            "D. were reading"
+        ],
+        "correct_answer": "D. were reading",
+        "explanation": " D\n- Căn cứ vào: “at this time last night” là dấu hiệu nhận biết thì quá khứ tiếp diễn.\n- Dịch nghĩa: Vào thời điểm này tối qua tôi và mẹ tôi đang đọc truyện tranh.\n"
+    },
+    {
+        "id": "85",
+        "question": "At 10.pm last night, my younger brother ___________________ games online.",
+        "answers": [
+            "A. had been playing",
+            "B. was playing",
+            "C. will be playing",
+            "D. have been playing"
+        ],
+        "correct_answer": "B. was playing",
+        "explanation": " B\n- Căn cứ vào: “At + giờ + mốc thời gian quá khứ” là dấu hiệu nhận biết thì quá khứ tiếp diễn.\n- Dịch nghĩa: Vào lúc 10 giờ tối qua, em trai nhỏ của tôi đang chơi trò chơi điện tử trực tuyến.\n"
+    },
+    {
+        "id": "86",
+        "question": "People _____________ all trees along the streets at this time two years ago.",
+        "answers": [
+            "A. are planting",
+            "B. will have been planting",
+            "C. were planting",
+            "D. will be planting"
+        ],
+        "correct_answer": "C. were planting",
+        "explanation": " C\n- Căn cứ vào: “at this time two years ago” là dấu hiệu nhận biết thì quá khứ tiếp diễn.\n- Dịch nghĩa: Mọi người đã trồng tất cả các cây trên đường phố vào thời điểm này hai năm\ntrước.\n"
+    },
+    {
+        "id": "87",
+        "question": "She __________________ her homework at this time yesterday morning?",
+        "answers": [
+            "A. Was – doing",
+            "B. Had – been doing",
+            "C. Do – do",
+            "D. Will – be doing"
+        ],
+        "correct_answer": "A. Was – doing",
+        "explanation": " A\n- Căn cứ vào: dấu hiệu nhận biết thì quá khứ tiếp diễn “at this time yesterday morning”.\n(At this time + mốc thời gian trong quá khứ)\n- Dịch nghĩa: Cô ấy đang làm bài tập về nhà thời điểm này sáng ngày hôm qua phải không?\n"
+    },
+    {
+        "id": "88",
+        "question": "They ____________________ dinner when we ____________________.",
+        "answers": [
+            "A. had – was coming",
+            "B. had had – came",
+            "C. come – will be coming",
+            "D. were\nhaving – came"
+        ],
+        "correct_answer": "D. were\nhaving – came",
+        "explanation": " D\n- Căn cứ vào: cách phối thì giữa thì quá khứ đơn và quá khứ tiếp diễn: Dùng để diễn tả một hành\nđộng đang xảy ra thì có hành động khác xen vào trong quá khứ.\n- Dịch nghĩa: Họ đang ăn tối thì chúng tôi đến.\n"
+    },
+    {
+        "id": "89",
+        "question": "At 8.pm yesterday they ______________ dinner while we _______________ TV.",
+        "answers": [
+            "A. will be having – will be watching",
+            "B. were having - were watching",
+            "C. are having – are watching",
+            "D. will have had – will have watched"
+        ],
+        "correct_answer": "B. were having - were watching",
+        "explanation": " B\n- Căn cứ vào: dấu hiệu nhận biết thì quá khứ tiếp diễn.\nAt + giờ + mốc thời gian quá khứ.\n- Dịch nghĩa: Vào lúc tám giờ ngày hôm qua, trong khi chúng tôi đang xem TV thì họ đang ăn\ntối.\n"
+    },
+    {
+        "id": "90",
+        "question": "When I went out, the sun ____________________.",
+        "answers": [
+            "A. will be shining",
+            "B. is shining",
+            "C. was shining",
+            "D. had been shining"
+        ],
+        "correct_answer": "C. was shining",
+        "explanation": " C\n"
+    },
+    {
+        "id": "91",
+        "question": "We ____________________ to the station when it __________________ to rain.",
+        "answers": [
+            "A. were walking – began",
+            "B. had been walking – began",
+            "C. have been walking – begins",
+            "D. will be walking – begin"
+        ],
+        "correct_answer": "A. were walking – began",
+        "explanation": " A\n- Căn cứ vào: cách dùng của thì quá khứ tiếp diễn: Diễn đạt hành động đang xảy ra thì có hành\nđộng khác xen vào.\n=> Hành động “đi bộ” đang diễn ra => chia quá khứ tiếp diễn\n=> Hành động “mưa” xen vào => chia quá khứ đơn\n- Dịch nghĩa: Chúng tôi đang đi bộ đến nhà ga thì trời mưa.\n"
+    },
+    {
+        "id": "92",
+        "question": "The servant dropped two cups while she _________________ up last night.",
+        "answers": [
+            "A. is washing",
+            "B. had been washing",
+            "C. have been washing",
+            "D. was washing"
+        ],
+        "correct_answer": "D. was washing",
+        "explanation": " D\n- Căn cứ vào: cách dùng của thì quá khứ tiếp diễn: Diễn đạt hành động đang xảy ra thì có hành\nđộng khác xen vào.\n- Dịch nghĩa: Người phục vụ đã làm rơi hai chiếc cốc trong khi cô ấy đang rửa bát tối qua.\n"
+    },
+    {
+        "id": "93",
+        "question": "Almost everybody _____________________ by the time we arrived.",
+        "answers": [
+            "A. have been leaving",
+            "B. had left",
+            "C. was leaving",
+            "D. have left"
+        ],
+        "correct_answer": "B. had left",
+        "explanation": " B\n- Căn cứ: mệnh đề trạng ngữ chỉ thời gian.\nBy the time + S + V (quá khứ đơn), S + V (quá khứ hoàn thành).\n- Dịch nghĩa: Hầu hết mọi người đã rời đi vào vào thời điểm chúng tôi đến.\n"
+    },
+    {
+        "id": "94",
+        "question": "The secretary ___________________ until she ___________________ her work.",
+        "answers": [
+            "A. hadn’t left – finish",
+            "B. don’t leave – had finished",
+            "C. didn’t leave – had finished",
+            "D. wasn’t leaving – finished"
+        ],
+        "correct_answer": "C. didn’t leave – had finished",
+        "explanation": " C\nDịch nghĩa: Thư kí sẽ không rời đi cho đến khi cô ấy hoàn thành xong công việc.\n- Việc cô ấy “hoàn thành công” việc xảy ra trước. => cô ấy “rời đi” xảy ra sau.\n=> “hoàn thành” chia quá khứ hoàn thành.\n=> “rời đi” chia thì quá khứ đơn.\n"
+    },
+    {
+        "id": "95",
+        "question": "The teacher asked the boy why he __________________ his homework.",
+        "answers": [
+            "A. have done",
+            "B. did",
+            "C. have been doing",
+            "D. hadn’t done"
+        ],
+        "correct_answer": "D. hadn’t done",
+        "explanation": " D\n* Dịch nghĩa: Giáo viên đã hỏi tại sao anh ấy chưa hoàn thành bài tập về nhà.\n-Việc anh ấy chưa hoàn thành bài tập về nhà xảy ra trước hành động “giáo viên hỏi”.\n=> chia thì quá khứ hoàn thành.\n"
+    },
+    {
+        "id": "96",
+        "question": "She ______ the letter when she _____ she ___________ it to the wrong address.",
+        "answers": [
+            "A. posted – had realized – sent",
+            "B. had posted – realized – had sent",
+            "C. was posting – realized – had sent",
+            "D. have posted – had realized – had sent"
+        ],
+        "correct_answer": "B. had posted – realized – had sent",
+        "explanation": " B\n- Dịch: Cô ấy gửi thư đi rồi thì cô ấy mới nhận ra là mình đã gửi nhầm địa chỉ.\n=> Có 3 hành động: gửi thư - nhận ra - gửi nhầm. Trong đó hành động nhận ra xảy ra sau nên\nchia quá khứ đơn, hành động gửi thử và gửi nhầm địa chỉ xảy ra trước nên chia quá khứ hoàn\nthành.\n"
+    },
+    {
+        "id": "97",
+        "question": "Hardly __________________ a mile when it had a flat tyre.",
+        "answers": [
+            "A. had the car gone",
+            "B. did the car go",
+            "C. had the car go",
+            "D. do the car go"
+        ],
+        "correct_answer": "A. had the car gone",
+        "explanation": " A\n- Căn cứ vào: cấu trúc đảo ngữ: Hardly + had + S + V (quá khứ phân từ) when + S + V (quá\nkhứ đơn).\n- Dịch nghĩa: Xe ô tô mới đi được một dặm thì nó bị bục lốp.\n"
+    },
+    {
+        "id": "98",
+        "question": "The weather __________________ far worse than we __________________.",
+        "answers": [
+            "A. is - have expected",
+            "B. was – was expected",
+            "C. was – have been expecting",
+            "D. was – had expected"
+        ],
+        "correct_answer": "D. was – had expected",
+        "explanation": " D\nDịch nghĩa: Thời tiết tệ hơn nhiều so với những gì chúng tôi đã dự tính.\n- Việc “dự đoán” xảy ra trước. => chia thì quá khứ hoàn thành.\n- “Thời tiết xấu hơn” dự đoán xảy ra sau. => chia thì quá khứ đơn.\n"
+    },
+    {
+        "id": "99",
+        "question": "They __________________ for five years when they finally had a child.",
+        "answers": [
+            "A. will have been married",
+            "B. had been married",
+            "C. have married",
+            "D. will be marrying"
+        ],
+        "correct_answer": "B. had been married",
+        "explanation": " B\n- Dịch: Khi họ có con, họ đã cưới nhau được 5 năm rồi.\n=> Việc lấy nhau xảy ra trước hành động có con => trước của quá khứ ta chia quá khứ hoàn\nthành.\n*Note: Be married = get married (a): kết hôn, cưới\n"
+    },
+    {
+        "id": "100",
+        "question": "When she __________________ her work, she __________________ to the\ncinema.",
+        "answers": [
+            "A. finished – had gone",
+            "B. was finishing – had been going",
+            "C. had finished – went",
+            "D. had been finishing – was going"
+        ],
+        "correct_answer": "C. had finished – went",
+        "explanation": " C\n* Dịch nghĩa: Khi cô ấy hoàn thành xong công việc, cô ấy đã đi đến rạp chiếu phim.\n- Hoàn thành công việc xảy ra trước. => chia thì quá khứ hoàn thành.\n- Đến rạp chiếu phim xảy ra sau. => chia thì quá khứ đơn.\n"
+    },
+    {
+        "id": "101",
+        "question": "At the time of our first meeting there was a considerable difference between me\nand him; he _________ articles in magazines for over five years while I was practically\nunknown.",
+        "answers": [
+            "A. had been publishing",
+            "B. was publishing",
+            "C. has been publishing",
+            "D. published"
+        ],
+        "correct_answer": "A. had been publishing",
+        "explanation": " A\nDịch nghĩa: Vào thời điểm cuộc gặp đầu tiên của chúng tôi, có một sự khác biệt lớn giữa tôi và\nanh ấy. Anh ấy đã có vài bài báo được đăng trên các tạp chí trong khoảng 5 năm trong khi tôi\ngần như chả có ai biết đến.\n=> Anh ấy đã có bài được đăng báo trong suốt 5 năm và từ trước khi chúng tôi gặp nhau.\n=> Hành động diễn ra trước thời điểm quá khứ và nhấn mạnh tính tiếp diễn nên ta chia thì quá\nkhứ hoàn thành tiếp diễn.\n"
+    },
+    {
+        "id": "102",
+        "question": "The house _____________ to the ground by the time the firemen\n_______________.",
+        "answers": [
+            "A. burned - had arrived",
+            "B. had burned – arrived",
+            "C. was burning – arrived",
+            "D. burned - was arriving"
+        ],
+        "correct_answer": "B. had burned – arrived",
+        "explanation": " B\nDịch nghĩa: Vào thời điểm lính cứu hỏa đến, ngôi nhà đã cháy lan ra mặt đất.\n=> Việc “ngôi nhà cháy lan ra mặt đất” xảy ra trước. => chia thì quá khứ hoàn thành.\n=> “Lính cứu hỏa đến” xảy ra sau. => chia thì quá khứ đơn.\nCấu trúc:\nBy the time + S + V(quá khứ đơn), S + V (quá khứ hoàn thành)\n"
+    },
+    {
+        "id": "103",
+        "question": "I ________________the accident when I was waiting for the taxi.",
+        "answers": [
+            "A. saw",
+            "B. was seeing",
+            "C. had been seeing",
+            "D. have seen"
+        ],
+        "correct_answer": "A. saw",
+        "explanation": " A\n* Căn cứ vào:\n- Khi diễn tả một hành động đang xảy ra trong quá khứ thì có một hành động khác xen vào.\n=> Hành động xen vào chia thì quá khứ đơn.\n=> Việc “nhìn thấy” là hành động xen vào nên chia thì quá khứ đơn.\n* Dịch nghĩa: Tôi đã nhìn thấy một vụ tai nạn khi tôi đang chờ xe taxi.\n"
+    },
+    {
+        "id": "104",
+        "question": "I agree that while the soup was OK, the meat was too dry – We _________ it about\n20 minutes too long.",
+        "answers": [
+            "A. had roasted",
+            "B. roast",
+            "C. had roast",
+            "D. have been roasting"
+        ],
+        "correct_answer": "A. had roasted",
+        "explanation": " A\n- Căn cứ vào “too long” - quá lâu (một quá trình) nên động từ trong mệnh đề này chia ở thì hoàn\nthành. Từ đó, ta loại phương án B.\n- Căn cứ vào động từ ở mệnh đề trước “was” chia thì quá khứ đơn nên vế sau chia thì quá khứ\nhoàn thành (theo quy tắc về sự phối thì.)\nTạm dịch: Mình đồng ý là trong khi món súp ngon thì món thịt lại quá khô - chúng ta đã nướng\nnó trong khoảng 20 phút liền.\n"
+    },
+    {
+        "id": "105",
+        "question": "At this time last night while people were talking to each other, he __________ his\nbook.",
+        "answers": [
+            "A. was reading",
+            "B. is reading",
+            "C. have read",
+            "D. reads"
+        ],
+        "correct_answer": "A. was reading",
+        "explanation": " A\n* Căn cứ vào:\n- at this time last night: là dấu hiệu nhận biết thì quá khứ tiếp diễn.\n* Dịch nghĩa: Vào thời điểm này tối qua trong khi mọi người đang nói chuyện với nhau, anh ấy\nđang đọc sách.\n"
+    },
+    {
+        "id": "106",
+        "question": "While we __________________ in the park, Mary fell over.",
+        "answers": [
+            "A. ran",
+            "B. are running",
+            "C. had been running",
+            "D. were running"
+        ],
+        "correct_answer": "D. were running",
+        "explanation": " D\n* Căn cứ cách dùng của thì quá khứ tiếp diễn:\n- Diễn tả hành động đang xảy ra thì có hành động khác xen vào.\n* Dịch nghĩa: Trong khi chúng tôi đang chạy ở công viên, Mary đã bị ngã.\n=> hành động “chạy” chia thì quá khứ tiếp diễn.\n"
+    },
+    {
+        "id": "107",
+        "question": "________________ I was listening to music, I heard the doorbell.",
+        "answers": [
+            "A. When",
+            "B. Why",
+            "C. If",
+            "D. Because"
+        ],
+        "correct_answer": "A. When",
+        "explanation": " A\nDịch: Khi tôi đang nghe nhạc, tôi nghe thấy tiếng chuông cửa.\nA. When: khi\nB. Why: tại sao\nC. If: nếu\nD. Because: bởi vì\n"
+    },
+    {
+        "id": "108",
+        "question": "How long ________________ English before she went to London?",
+        "answers": [
+            "A. did she learn",
+            "B. had she been learning",
+            "C. have she learnt",
+            "D. was she\nlearning"
+        ],
+        "correct_answer": "B. had she been learning",
+        "explanation": " B\n* Dịch nghĩa: Trước khi cô ấy đến London, cô ấy đã học tiếng anh trong bao lâu?\n=> Nhấn mạnh thời gian liên tục cô ấy học Tiếng Anh và xảy ra trước việc “cô ấy đến London”.\n=> Ta chia thì quá khứ hoàn thành tiếp diễn\n"
+    },
+    {
+        "id": "109",
+        "question": "They _____________ at the station for 90 minutes when the train finally arrived.",
+        "answers": [
+            "A. were waiting",
+            "B. will be waiting",
+            "C. had been waiting",
+            "D. are waiting"
+        ],
+        "correct_answer": "C. had been waiting",
+        "explanation": " C\n* Căn cứ cách dùng của thì QKHT tiếp diễn:\n- Nhấn mạnh một hành động xảy ra liên tục kéo dài trước hành động khác trong một hành động\nkhác trong quá khứ.\n- “for 90 minutes” nhấn mạnh “việc họ phải chờ”, việc “chờ” diễn ra trước việc “tàu đến”.\n* Dịch nghĩa: Cuối cùng tàu đã đến họ đã chờ 90 phút ở nhà ga.\n"
+    },
+    {
+        "id": "110",
+        "question": "We ______________ for her ring for two hours and then we found it in the\nbathroom.",
+        "answers": [
+            "A. had been looking",
+            "B. were looking",
+            "C. will be looking",
+            "D. have been looking"
+        ],
+        "correct_answer": "A. had been looking",
+        "explanation": " A\n- Dịch: Chúng tôi đã tìm chiếc nhẫn của cô ấy trong hai giờ và sau đó chúng tôi đã tìm thấy nó ở\ntrong phòng tắm.\n+ hành động \" tìm nhẫn của cô ấy\" xảy ra trong quá khứ, “tìm thấy nó ở phòng tắm” xảy ra sau.\n+ “for two hours” nhấn mạnh tính liên tục của hành động \" tìm nhẫn của cô ấy\", nó diễn ra liên\ntục trong hai giờ.\n=> Chia thì quá khứ hoàn thành tiếp diễn.\n"
+    },
+    {
+        "id": "111",
+        "question": "Frank Sinatra caught the flu because he _________________ in the rain too long.",
+        "answers": [
+            "A. was singing",
+            "B. will be singing",
+            "C. is singing",
+            "D. had been singing"
+        ],
+        "correct_answer": "D. had been singing",
+        "explanation": " D\n- Dịch: Frank Sinatra đã bị cúm bởi vì anh ấy đã hát trong trời mưa quá lâu.\n+ \" hát\" là hành động xảy ra trong quá khứ và đã chấm dứt, \" hát\" xảy ra trước việc “bị cúm”.\n+ “too long” nhấn mạnh đến tính liên tục của việc “hát” xảy trong trong khoảng thời gian “quá\nlâu”.\n=> Chia thì quá khứ hoàn thành tiếp diễn.\n"
+    },
+    {
+        "id": "112",
+        "question": "When police were investigating the road accident, they discovered that the driver\n__________ two road accidents before.",
+        "answers": [
+            "A. had been involved in",
+            "B. had been being involved in",
+            "C. will be involving in",
+            "D. will have involved in"
+        ],
+        "correct_answer": "A. had been involved in",
+        "explanation": " A\n* Căn cứ vào cách dùng của thì quá khứ hoàn thành:\n- Nhấn mạnh hành động xảy ra trước hành động khác trong quá khứ.\n- Nhấn mạnh “Lái xe có liên quan đến hai vụ tai nạn trước đó”.\n* Dịch nghĩa: Khi cảnh sát đang điều tra vụ tai nạn giao thông, họ đã phát hiện ra rằng lái xe có\nliên quan đến hai vụ tai nạn giao thông trước đó.\n"
+    },
+    {
+        "id": "113",
+        "question": "They _________ anyone while they were walking home because it was raining.",
+        "answers": [
+            "A. weren’t seeing",
+            "B. hadn’t see",
+            "C. didn’t see",
+            "D. weren’t seen"
+        ],
+        "correct_answer": "C. didn’t see",
+        "explanation": " C\n* Căn cứ vào cách dùng của thì quá khứ đơn: diễn tả hành động xảy ra trong quá khứ.\n- “Họ đã không nhìn thấy” => chia thì quá khứ đơn.\n* Dịch nghĩa: Họ đã không nhìn thấy ai trong khi họ đang đi về nhà bởi vì trời mưa.\n"
+    },
+    {
+        "id": "114",
+        "question": "Although at that time my knowledge of German was very poor, I _____ most of\nwhat they said.",
+        "answers": [
+            "A. understood",
+            "B. have understood",
+            "C. managed to understand",
+            "D. didn’t understand"
+        ],
+        "correct_answer": "C. managed to understand",
+        "explanation": " C\n- Dịch: Mặc dù ở thời điểm đó vốn kiến thức về tiếng Đức của tôi rất kém, nhưng tôi vẫn cố gắng\nhiểu được hầu hết những gì họ nói.\nTa có cấu trúc: manage to do st: xoay sở để làm gì\nLưu ý:\nXét thì động từ thì ta thấy cả A và C đều đúng. Nhưng xét về nghĩa và ngữ cảnh của câu thì ta\nchọn C.\n"
+    },
+    {
+        "id": "115",
+        "question": "We watched the film The Godfather last night. We had seen the film about 3 times\nbefore but we watched it again because John ________________ it.",
+        "answers": [
+            "A. had been seeing",
+            "B. had never seen",
+            "C. have never seen",
+            "D. have been eating"
+        ],
+        "correct_answer": "B. had never seen",
+        "explanation": " B\nDịch nghĩa: Chúng tôi đã xem bộ phim The Godfather tối qua. Chúng tôi đã xem bộ phim đó ba\nlần trước đây nhưng chúng tôi vẫn xem lại nó một lần nữa bởi vì Tom chưa bao giờ xem nó.\n=> Hành động chưa xem bao giờ của John là tính đến thời điểm tối qua nên chia thành thì quá\nkhứ hoàn thành. Nếu chia hiện tại hoàn thành thì đồng nghĩa John đã xem một lần tối qua rồi chứ\nkhông phải chưa xem bao giờ => Trái với giả thiết\n"
+    },
+    {
+        "id": "116",
+        "question": "We _______________ for nearly 100 kilometres before we finally found a service\nstation we could stop at.",
+        "answers": [
+            "A. had driven",
+            "B. have been driving",
+            "C. had been driving",
+            "D. have driven"
+        ],
+        "correct_answer": "C. had been driving",
+        "explanation": " A không sai nhưng đáp án C mới là phương án tối ưu nhất.\n- Dịch nghĩa: Chúng tôi đã lái xe gần 100 km trước khi chúng tôi tìm thấy một trạm xăng chúng\ntôi có thể dừng lại.\n"
+    },
+    {
+        "id": "117",
+        "question": "I ________________ a student in Moloxop School in 1998.",
+        "answers": [
+            "A. was",
+            "B. were",
+            "C. to be",
+            "D. to was"
+        ],
+        "correct_answer": "A. was",
+        "explanation": " A\n- Căn cứ vào: “in + mốc thời gian trong quá khứ” => chia thì quá khứ đơn.\n- Dịch: Vào năm 1998 tôi là học sinh của trường Monoxop.\n"
+    },
+    {
+        "id": "118",
+        "question": "When I got home I realised that while I ________________ someone had stolen\nmy wallet.",
+        "answers": [
+            "A. had walked",
+            "B. have been walking",
+            "C. have walked",
+            "D. had been walking"
+        ],
+        "correct_answer": "D. had been walking",
+        "explanation": " D\nDịch nghĩa: Khi tôi về nhà, tôi nhận ra trong khi tôi đi bộ thì có ai đó đã lấy trộm ví của tôi.\n=> Việc đi bộ và bị mất trộm ví xảy ra trước hành động nhận ra nên chia quá khứ hoàn thành.\nViệc đi bộ là hành động tiếp diễn nên ta dùng quá khứ hoàn thành tiếp diễn để nhấn mạnh tính\ntiếp diễn.\n"
+    },
+    {
+        "id": "119",
+        "question": "We ____ to the hospital to visit Mike when he ____ to say that he was fine.",
+        "answers": [
+            "A. were driving - was calling",
+            "B. drove - called",
+            "C. were driving – called",
+            "D. drove - was calling"
+        ],
+        "correct_answer": "C. were driving – called",
+        "explanation": " C\n- Dịch nghĩa: Chúng tôi đang đi đến bệnh viện để thăm Mike thì anh ấy gọi đến để nói rằng anh\nấy vẫn ổn.\n+ “đang đi đến bệnh viện” là hành động đang xảy => chia quá khứ tiếp diễn.\n+ “gọi đến” là hành động xen vào => chia thì quá khứ đơn.\n"
+    },
+    {
+        "id": "120",
+        "question": "What ____ to you on Sunday night?",
+        "answers": [
+            "A. happen",
+            "B. happened",
+            "C. was happening",
+            "D. would happen"
+        ],
+        "correct_answer": "B. happened",
+        "explanation": " B\n- Dịch nghĩa: Chuyện gì đã xảy ra với bạn vào tối chủ nhật?\n+ hành động xảy ra và chấm dứt trong quá khứ => chia thì quá khứ đơn.\n"
+    },
+    {
+        "id": "121",
+        "question": "Last night, we ____ for you for ages but you never ____ up.",
+        "answers": [
+            "A. waited – showed",
+            "B. would wait - showed",
+            "C. were waiting - were showing",
+            "D. waited - was showing"
+        ],
+        "correct_answer": "A. waited – showed",
+        "explanation": " A\n=> Key: A. waited – showed\n=> Vì: do cách dùng của thì quá khứ đơn: diễn tả một sự việc đã diễn ra và kết thúc trong quá\nkhứ\n=> Dịch: Tối qua chúng tôi đã đợi bạn rất lâu nhưng bạn không đến.\n"
+    },
+    {
+        "id": "122",
+        "question": "We ____ our quality time when the unexpected guess ____.",
+        "answers": [
+            "A. had – came",
+            "B. were having - came",
+            "C. had been having – came",
+            "D. have had - would have come"
+        ],
+        "correct_answer": "B. were having - came",
+        "explanation": " B\n=> Key: B. were having – came\n=> Vì: diễn tả một hành động đang diễn ra thì một hành động khác xen vào\n=> Dịch: Chúng tôi đang có thời gian tuyệt vời với nhau thì vị khách không mời mà đến xuất\nhiện.\n"
+    },
+    {
+        "id": "123",
+        "question": "Since they ____ us they ____ to visit us last Sunday, we ____ forward to the day.",
+        "answers": [
+            "A. were telling - came – looked",
+            "B. would tell - would visit - would look",
+            "C. told - would come - were looking",
+            "D. tell - are coming - will look"
+        ],
+        "correct_answer": "C. told - would come - were looking",
+        "explanation": " C\nDịch nghĩa: Vì chủ nhật tuần trước họ bảo là họ sẽ đến thăm chúng tôi nên chúng tôi đã ngóng\nchờ ngày hôm đó.\n- Căn cứ vào trạng từ thời gian “last sunday” nên động từ “tell” phải chia về quá khứ đơn. Xét\ncác đáp án chỉ có đáp án C phù hợp.\n"
+    },
+    {
+        "id": "124",
+        "question": "I ____ out last night but at the last minute I ____ that I had a quiz this morning.",
+        "answers": [
+            "A. was going – realized",
+            "B. went – realized",
+            "C. had gone - would realize",
+            "D. would go - have realized"
+        ],
+        "correct_answer": "A. was going – realized",
+        "explanation": " A\n"
+    },
+    {
+        "id": "125",
+        "question": "She hasn’t paid as much attention to her children as she ____ since she ____\nworking.",
+        "answers": [
+            "A. does – starts",
+            "B. did - started",
+            "C. was doing - was starting",
+            "D. has done - would start"
+        ],
+        "correct_answer": "B. did - started",
+        "explanation": " B\n- Dịch nghĩa: Cô ấy đã không chú ý nhiều đến bọn trẻ của mình như trước kể từ khi cô ấy bắt\nđầu đi làm.\n+ Ta có cấu trúc: S + V(hiện tại hoàn thành) + since + S + V(quá khứ đơn).\n=> Vế sau “since” chia thì quá khứ đơn\n+ Vị trí thứ nhất cần động từ để mang nghĩa “cô ấy từng làm”=> động từ phải chia ở quá khứ\nđơn; vì đang so sánh rằng “bây giờ không chú ý nhiều đến con cái như trước đây”. Khi không\nmuốn nhắc lại cụm “pay attention to her children” nên họ đã dùng trợ động từ để thay thế là\n“did”.\n"
+    },
+    {
+        "id": "126",
+        "question": "My brother ____ at the road when he ____ into a hole.",
+        "answers": [
+            "A. wasn’t looking - was falling",
+            "B. didn’t look - has fallen",
+            "C. wasn’t looking – fell",
+            "D. won’t look - fall"
+        ],
+        "correct_answer": "C. wasn’t looking – fell",
+        "explanation": " C\n=> Key: C. wasn’t looking – fell\n=> Vì: một hành động đang diễn ra thì hành động khác xen vào\n=> Dịch: Khi anh trai tôi đang không nhìn đường thì anh ấy rơi xuống một cái hố.\n"
+    },
+    {
+        "id": "127",
+        "question": "Magellan ____ the first European who ____ through the strait.",
+        "answers": [
+            "A. was - was sailing",
+            "B. was being - was sailing",
+            "C. had been – sailed",
+            "D. was - sailed"
+        ],
+        "correct_answer": "D. was - sailed",
+        "explanation": " D\n=> Key: D. was – sailed\n=> Vì: theo cách dùng của thì quá khứ đơn: diễn tả một sự việc đã diễn ra và kết thúc trong quá\nkhứ\n=> Dịch: Magellan là người châu Âu đầu tiên đi thuyền qua eo biển\n"
+    },
+    {
+        "id": "128",
+        "question": "The first self-sufficient village in Britain ____ the Norman’s idea. They were some\nstrange invaders who ____ to change the country in a better way.",
+        "answers": [
+            "A. was – hoped",
+            "B. is - have hoped",
+            "C. have been - were hoping",
+            "D. was being - had hoped"
+        ],
+        "correct_answer": "A. was – hoped",
+        "explanation": " A\n=> Key: A. was – hoped\n=> Vì: theo cách dùng của thì quá khứ đơn: diễn tả một sự việc đã diễn ra và kết thúc trong quá\nkhứ\n=> Dịch: Ngôi làng độc lập đầu tiên ở Anh là ý tưởng của người Norman. Họ là những kẻ xâm\nlược kỳ lạ đã hy vọng thay đổi đất nước theo cách tốt hơn.\n"
+    },
+    {
+        "id": "129",
+        "question": "Linda only ____ the film after she ________________ the book.",
+        "answers": [
+            "A. understood – read",
+            "B. understood - had read",
+            "C. had understood – read",
+            "D. understood - was reading"
+        ],
+        "correct_answer": "B. understood - had read",
+        "explanation": " B\n=> Vì: theo cách dùng của thì quá khứ đơn: diễn tả một sự việc đã diễn ra và kết thúc trong quá\nkhứ và quá khứ hoàn thành để diển tả một sự việc đã xảy ra trước một sự việc khác trong quá\nkhứ\n=> Dịch: Linda chỉ hiểu bộ phim sau khi cô đọc cuốn sách.\n"
+    },
+    {
+        "id": "130",
+        "question": "__________ you ever ____ on TV before you ____ in this reality show?",
+        "answers": [
+            "A. Had … appeared - took part",
+            "B. Have … appeared - took part",
+            "C. Did … appear - had taken part",
+            "D. Would … appear - took part"
+        ],
+        "correct_answer": "A. Had … appeared - took part",
+        "explanation": " A\n=> Key: A. Had … appeared – took part\n=> Vì: quá khứ hoàn thành để diển tả một sự việc đã xảy ra trước một sự việc trong quá khứ và\ntheo cách dùng của thì quá khứ đơn: diễn tả một sự việc đã diễn ra và kết thúc trong quá khứ\n=> Dịch: Bạn đã từng xuất hiện trên TV trước khi bạn tham gia chương trình thực tế này chưa?\n"
+    },
+    {
+        "id": "131",
+        "question": "I wasn’t sure how Belinda would react because I ____ her long.",
+        "answers": [
+            "A. didn’t know",
+            "B. wasn’t knowing",
+            "C. hadn’t been knowing",
+            "D. hadn’t known"
+        ],
+        "correct_answer": "D. hadn’t known",
+        "explanation": " D\nTạm dịch: Tôi không chắc là Belinda sẽ phản ứng như thế nào bởi vì tôi đã không hay biết gì về\ncô ấy từ rất lâu rồi.\n=> Căn cứ vào “long” nên mệnh đề sau chia thì hiện tại hoàn thành. Tuy nhiên, động từ ở mệnh\nđề trước chia thì quá khứ đơn nên động từ ở mệnh đề sau phải lùi một thì => thì quá khứ hoàn\nthành\n"
+    },
+    {
+        "id": "132",
+        "question": "I wanted to say goodbye to Jerry, but he ______________.",
+        "answers": [
+            "A. was already left",
+            "B. already left",
+            "C. had already been leaving",
+            "D. had already left"
+        ],
+        "correct_answer": "D. had already left",
+        "explanation": " D\n=> Key: D. had already left\n=> Vì: dùng từ hiện tại do ở đây việc anh ta rời đi đã xảy ra trước việc nói tạm biệt\n=> Dịch: Tôi muốn nói lời tạm biệt với Jerry, nhưng anh ấy đã rời đi rồi\n"
+    },
+    {
+        "id": "133",
+        "question": "When we ____ to the airport, I realized that I ____ my passport at home.",
+        "answers": [
+            "A. got - had left",
+            "B. got - was left",
+            "C. got – left",
+            "D. had got - had left"
+        ],
+        "correct_answer": "A. got - had left",
+        "explanation": " A\n=> Vì: việc quên hộ chiếu diễn ra trước việc đi tới sân bay, nên ta chia thì quá khứ đơn cho hành\nđộng “đến sân bay” và quá khứ hoàn thành cho hành động “quên hộ chiếu” - vì dùng để nó diễn\ntả một hành động xảy ra trước một hành động khác trong quá khứ.\n=> Dịch: Khi chúng tôi tới sân bay, tôi nhận ra là tôi đã quên hộ chiếu ở nhà.\n"
+    },
+    {
+        "id": "134",
+        "question": "He ____ the umbrella in his right hand trying to keep his balance.",
+        "answers": [
+            "A. hold",
+            "B. held",
+            "C. has been holding",
+            "D. has held"
+        ],
+        "correct_answer": "B. held",
+        "explanation": " B\n=> Vì: diễn tả một sự việc đã diễn ra và kết thúc trong quá khứ vì câu có hàm nghĩa thiên về cau\nkể => quá khứ đơn\n=> Dịch: Anh cầm chiếc ô trong tay phải cố giữ thăng bằng.\n"
+    },
+    {
+        "id": "135",
+        "question": "When I met Walters about two years before his death he didn’t seem satisfied.\nHe ____ no major book since he settled in Uganda.",
+        "answers": [
+            "A. has published",
+            "B. could have published",
+            "C. published",
+            "D. had published"
+        ],
+        "correct_answer": "D. had published",
+        "explanation": " D\n- Dịch nghĩa: Khi tôi gặp Walters khoảng hai năm trước khi ông ấy qua đời, ông ấy có vẻ không\nhài lòng. Ông đã không xuất bản cuốn sách lớn nào kể từ khi ông ấy định cư ở Uganda.\nTa có cấu trúc: Trước since chia hiện tại hoàn thành sau since chia quá khứ đơn. Tuy nhiên, căn\ncứ vào các động từ \"met“, ”didn’t seem\" và quy tắc về sự phối thì nên ta chia động từ trong vị\ntrí trống ở thì quá khứ hoàn thành.\n"
+    },
+    {
+        "id": "136",
+        "question": "Throughout the campaign we ____ our candidate’s photographs on the walls of\npublic buildings, hoping to attract women’s votes.",
+        "answers": [
+            "A. have been hanging",
+            "B. hanged",
+            "C. hung",
+            "D. have hung"
+        ],
+        "correct_answer": "C. hung",
+        "explanation": " C\nDịch: Trong suốt chiến dịch đó, chúng tôi đã treo các bức ảnh của ứng cử viên của chúng tôi trên\ntường của các tòa nhà công cộng, với hy vọng thu hút phiếu bầu của phụ nữ.\n=> Hành động đã xảy ra và đã kết thúc trong quá khứ ta chia thì quá khứ đơn. Mặc dù không có\nthời gian hay dấu hiệu thời gian cụ thể, nhưng căn cứ vào ngữ nghĩa câu, có thể thấy đó là một\ncâu kể, nên tốt nhất vẫn hiểu nó là hành động đã diễn ra và kết thúc trong quá khứ thay vì ở thì\nhiện tại.\n"
+    },
+    {
+        "id": "137",
+        "question": "Many of the people who attended Major Gordon’s funeral ____ him for many\nyears.",
+        "answers": [
+            "A. didn’t see",
+            "B. wouldn’t see",
+            "C. haven’t seen",
+            "D. hadn’t seen"
+        ],
+        "correct_answer": "D. hadn’t seen",
+        "explanation": " D\n- Dịch nghĩa: Nhiều người đã tham dự đám tang của Thiếu tá Gordon đã không gặp ông trong\nnhiều năm.\n+ sự việc “không gặp Thiếu Tá” đã xảy ra trước việc “tham dự đám tang” => chia thì quá khứ\nhoàn thành.\n"
+    },
+    {
+        "id": "138",
+        "question": "Seeing Peter’s handwriting on the envelope, she ____ the letter without reading it.\nShe has not mentioned it ever since.",
+        "answers": [
+            "A. was tearing",
+            "B. tore",
+            "C. had torn",
+            "D. has torn"
+        ],
+        "correct_answer": "B. tore",
+        "explanation": " B\n- Dịch nghĩa: Nhìn thấy chữ viết tay của Peter trên phong bì, cô xé đã lá thư mà không đọc nó.\nCô đã không đề cập đến nó kể từ đó.\n- Giải thích: Nhìn thấy chữ viết tay của Peter là xé thư ngay => hành động xảy ra nối tiếp nhau\ntrong quá khứ => chia thì quá khứ đơn.\n"
+    },
+    {
+        "id": "139",
+        "question": "We were both very excited about the visit, as we ____ each other for ages.",
+        "answers": [
+            "A. never saw",
+            "B. didn’t see",
+            "C. hadn’t seen",
+            "D. haven’t seen"
+        ],
+        "correct_answer": "C. hadn’t seen",
+        "explanation": " C\nDịch nghĩa: Cả hai chúng tôi đều rất hào hứng về chuyến viếng thăm, vì chúng tôi đã không gặp\nnhau lâu lắm rồi.\n+ “không gặp trong nhiều năm” là hành động xảy ra trước => chia thì quá khứ hoàn thành.\n"
+    },
+    {
+        "id": "140",
+        "question": "What made you think he ____ in the Royal Air Force?",
+        "answers": [
+            "A. must have to be",
+            "B. had been",
+            "C. was being",
+            "D. had had to be"
+        ],
+        "correct_answer": "B. had been",
+        "explanation": " B\n- Căn cứ vào cách sử dụng của thì quá khứ hoàn thành: diễn tả hành động xảy ra trước hành động\nkhác trong quá khứ.\n- Dịch nghĩa: Điều gì khiến bạn nghĩ rằng anh ấy đã ở trong Không quân Hoàng gia?\n+ Hành động “ở” xảy ra trước => chia thì quá khứ hoàn thành.\n"
+    },
+    {
+        "id": "141",
+        "question": "Without turning my head in the direction of the gate I ____ a small object just\nunder the fence.",
+        "answers": [
+            "A. spotted",
+            "B. had spotted",
+            "C. have spotted",
+            "D. was spotted"
+        ],
+        "correct_answer": "A. spotted",
+        "explanation": " A\nDịch nghĩa: Tôi phát hiện ra một vật nhỏ ngay dưới hàng rào mà không quay đầu mình về\nhướng cổng.\nGiai thích:\n- Căn cứ theo ngữ cảnh của câu => câu chia ở thể chủ động => D sai\n- Hành động “phát hiện một vật nhỏ” xảy ra và đã kết thúc trong quá khứ => chia ở thì quá khứ\nđơn\n"
+    },
+    {
+        "id": "142",
+        "question": "With just one exception, the report says, each of the trees that was cut down\n__________ very expensive treatment for periods of up to ten years.",
+        "answers": [
+            "A. had to be undergone",
+            "B. was undergone",
+            "C. has undergone",
+            "D. had undergone"
+        ],
+        "correct_answer": "D. had undergone",
+        "explanation": " D\n- Dịch nghĩa: Chỉ có một ngoại lệ, báo cáo cho biết, mỗi cây bị chặt hạ đã trải qua quá trình\nchăm sóc rất tốn kém trong thời gian lên tới mười năm.\n=> Vì hành động \"bị chặt\" chia quá khứ đơn => Việc “trải qua quá trình chăm sóc” diễn ra\ntrước hành động “bị chặt” => hành động \"trải qua quá trình chăm sóc\" phải chia thì quá khứ\nhoàn thành.\n"
+    },
+    {
+        "id": "143",
+        "question": "They ____ married for two years or so when Roy enployed a very attractive Indian\nsecretary in his Glasgow office.",
+        "answers": [
+            "A. only have been",
+            "B. were only",
+            "C. have only been",
+            "D. had only been"
+        ],
+        "correct_answer": "D. had only been",
+        "explanation": " D\nDịch nghĩa: Họ chỉ mới kết hôn được hai năm hoặc lâu hơn thì Roy tuyển dụng một thư ký Ấn\nĐộ rất hấp dẫn trong văn phòng tại thành phố Glasgow của ông.\n+ “việc kết hôn” xảy ra trước sự việc “Roy được thuê” => chia thì quá khứ hoàn thành.\n"
+    },
+    {
+        "id": "144",
+        "question": "I know too little Dutch to have understood what they were talking about. What I\n____ was that their boss would be there the next morning.",
+        "answers": [
+            "A. understood",
+            "B. didn’t understand",
+            "C. have understood",
+            "D. could have understood"
+        ],
+        "correct_answer": "A. understood",
+        "explanation": " A\nDịch nghĩa: Tôi biết quá ít về tiếng Hà Lan để hiểu những gì họ đang nói. Điều tôi đã hiểu là\nông chủ của họ sẽ ở đó vào sáng hôm sau.\nCăn cứ: diễn tả hành động xảy ra và kết thúc trong quá khứ.\n"
+    },
+    {
+        "id": "145",
+        "question": "The driver ____ violently and managed to stop the car just inches from the body\nlying on the road.",
+        "answers": [
+            "A. was braking",
+            "B. has braked",
+            "C. braked",
+            "D. had braked"
+        ],
+        "correct_answer": "C. braked",
+        "explanation": " C\n- Dịch nghĩa: Người lái xe đã phanh gấp và cố gắng dừng chiếc xe chỉ cách cơ thể nằm trên\nđường vài inch.\n+ “Phanh gấp => cố gắng để dừng lại” là những hành động xảy ra liên tiếp trong quá khứ => chia\nthì quá khứ đơn.\n"
+    },
+    {
+        "id": "146",
+        "question": "They stopped to take a rest because they _______________ long enough.",
+        "answers": [
+            "A. have worked",
+            "B. had been working",
+            "C. worked",
+            "D. were working"
+        ],
+        "correct_answer": "B. had been working",
+        "explanation": " B\n+ Hành động \"làm việc\" kéo dài liên tục, xảy ra trước hành động \"dừng lại để nghỉ\".\n=> chia thì quá khứ hoàn thành tiếp diễn.\n- Dịch nghĩa: Họ đã dừng lại để nghỉ ngơi bởi trước đó họ đã làm việc liên tục đủ lâu rồi.\n"
+    },
+    {
+        "id": "147",
+        "question": "The performance _______ at 7 o’clock and _________ for three hours. We all\n__________ it.",
+        "answers": [
+            "A. had begun/lasted/enjoyed",
+            "B. began/had lasted/enjoyed",
+            "C. began/lasted/enjoyed",
+            "D. began/lasted/enjoy"
+        ],
+        "correct_answer": "C. began/lasted/enjoyed",
+        "explanation": " C\n- Căn cứ: cách dùng của thì quá khứ đơn: kể lại những hành động xảy ra liên tiếp trong quá khứ.\n- Dịch nghĩa: Buổi biểu diễn bắt đầu lúc 7 giờ và kéo dài trong ba tiếng. Tất cả chúng tôi đều\nthích nó.\n"
+    },
+    {
+        "id": "148",
+        "question": "By the time you _________ cooking, they had done their homework.",
+        "answers": [
+            "A. finished",
+            "B. had finished",
+            "C. finish",
+            "D. were finishing"
+        ],
+        "correct_answer": "A. finished",
+        "explanation": " A\n- Căn cứ vào cấu trúc: By the time + S(quá khứ đơn), S + V(quá khứ hoàn thành).\n- Dịch nghĩa: Vào thời điểm bạn nấu ăn xong, họ đã hoàn thành xong bài tập về nhà.\n"
+    },
+    {
+        "id": "149",
+        "question": "He _________________ to the theatre tonight. He has got a free ticket.",
+        "answers": [
+            "A. goes",
+            "B. is going",
+            "C. went",
+            "D. will go"
+        ],
+        "correct_answer": "B. is going",
+        "explanation": " B\nDiễn đạt một kế hoạch, dự định chắc chắn sẽ xảy ra vì có căn cứ, dấu hiệu ở hiện tại → Thì\ntương lai gần\nDịch: Anh ấy sẽ đi đến rạp hát tối nay. Anh ấy có một vé miễn phí.\n"
+    },
+    {
+        "id": "150",
+        "question": "Not a cloud in the sky. It __________________ another warm day.",
+        "answers": [
+            "A. may be",
+            "B. will be",
+            "C. is",
+            "D. is going to be"
+        ],
+        "correct_answer": "D. is going to be",
+        "explanation": " D\nDiễn đạt một lời dự đoán dựa vào bằng chứng ở hiện tại →Thì tương lai gần\nDịch: Không có một bóng mây trên trời. Sẽ là một ngày ấm áp nữa đây.\n"
+    },
+    {
+        "id": "151",
+        "question": "When I retire, I _________________ to Barbados to live.",
+        "answers": [
+            "A. am going to come back",
+            "B. will come back",
+            "C. shall come back",
+            "D. am coming back"
+        ],
+        "correct_answer": "A. am going to come back",
+        "explanation": " A\n* Căn cứ vào cách dùng của thì tương lai gần: diễn đạt một kế hoạch, dự định trong tương lai\ngần.\n- Ta thường dùng thì hiện tại tiếp diễn để diễn tả hành động đã chuẩn bị kế hoạch sẵn, có thời\ngian cụ thể hoặc là một kế hoạch lớn, quyết định quan trọng có thời gian xác định, do đó đáp án\nD chưa phù hợp ở đây. Dùng tương lai đơn (đáp án B) chỉ để đưa ra quyết định tại thời điểm nói,\nxét ngữ cảnh của câu thì việc này không thể dễ dàng đưa ra quyết định tại thời điểm nói được\nnên không chọn B.\n* Dịch nghĩa: Khi tôi nghỉ hưu, tôi sẽ quay về Barbados sống.\n"
+    },
+    {
+        "id": "152",
+        "question": "What time ____ tomorrow?",
+        "answers": [
+            "A. are you going to leave",
+            "B. do you leave",
+            "C. will you leave",
+            "D. would you\nleave"
+        ],
+        "correct_answer": "C. will you leave",
+        "explanation": " C\nDiễn đạt câu hỏi không có căn cứ → Thì tương lai đơn\nDịch: Bạn sẽ rời đi vào mấy giờ ngày mai?\n"
+    },
+    {
+        "id": "153",
+        "question": "Who ____ the next World Cup?",
+        "answers": [
+            "A. is going to win",
+            "B. is wining",
+            "C. will win",
+            "D. win"
+        ],
+        "correct_answer": "C. will win",
+        "explanation": " C\nDiễn đạt lời dự đoán không có căn cứ → Thì tương lai đơn\nDịch: Ai sẽ chiến thắng mùa World Cup tiếp theo?\n"
+    },
+    {
+        "id": "154",
+        "question": "The traffic is terrible. We __________________ our flight.",
+        "answers": [
+            "A. miss",
+            "B. will miss",
+            "C. are missing",
+            "D. are going to miss"
+        ],
+        "correct_answer": "D. are going to miss",
+        "explanation": " D\nCó những chứng cứ cụ thể ở hiện tại →Thì tương lai gần\nDịch: Giao thông thật tệ hại. Chúng ta sẽ lỡ chuyến bay mất.\n"
+    },
+    {
+        "id": "155",
+        "question": "I _________ my books for my readers in a book exhibition at this time tomorrow.",
+        "answers": [
+            "A. am going to sign",
+            "B. will be signing",
+            "C. will sign",
+            "D. will have been signing"
+        ],
+        "correct_answer": "B. will be signing",
+        "explanation": " B\nDấu hiệu nhận biết thì tương lai tiếp diễn: “at this time tomorrow”\nDiễn đạt một hành động sẽ xảy ra tại một thời điểm xác định ở tương lai\n→ Thì tương lai tiếp diễn\nDịch: Tôi sẽ kí sách của tôi cho độc giả tại triển lãm sách vào giờ này ngày mai.\n"
+    },
+    {
+        "id": "156",
+        "question": "We __________ her the truth when she _________ home.",
+        "answers": [
+            "A. are going to tell – will come",
+            "B. are telling – comes",
+            "C. will tell – will come",
+            "D. will tell – comes"
+        ],
+        "correct_answer": "D. will tell – comes",
+        "explanation": " D\nDiễn đạt một quyết định ngay tại thời điểm nói → Thì tương lai đơn\nDịch: Chúng ta sẽ nói cho cô ấy sự thật khi cô ấy về nhà.\n"
+    },
+    {
+        "id": "157",
+        "question": "In two months’ time, Raymond _________ from the college with a degree and will\nbe expecting a respected and well-paid job.",
+        "answers": [
+            "A. will be graduating",
+            "B. has graduated",
+            "C. will have graduated",
+            "D. has been graduating"
+        ],
+        "correct_answer": "C. will have graduated",
+        "explanation": " C\n"
+    },
+    {
+        "id": "158",
+        "question": "They _________ our winter house by the time we _________ from our summer\nhouse.",
+        "answers": [
+            "A. painted - had returned",
+            "B. will have painted - return",
+            "C. will be painting - have returned",
+            "D. have been painting - have returned"
+        ],
+        "correct_answer": "B. will have painted - return",
+        "explanation": " B\nTa có:\n- By the time + S + V(hiện tại đơn), S + V(tương lai hoàn thành)\n- By the time + S + V(quá khiws đơn), S + V(quá khứ hoàn thành)\nDịch: Họ sẽ sơn xong căn nhà mùa đông của chúng ta vào lúc chúng ta trở về từ căn nhà mùa hè.\n"
+    },
+    {
+        "id": "159",
+        "question": "A: Can you join us for a picnic tomorrow?\nB: Thanks, but I _________ to the cinema with Anna.",
+        "answers": [
+            "A. go",
+            "B. will go",
+            "C. am going",
+            "D. have gone"
+        ],
+        "correct_answer": "C. am going",
+        "explanation": " C\nDiễn tả một dự định đã có kế hoạch từ trước → Thì tương lai gần\nTạm dịch:\nA: Bạn có tham gia cùng chúng tôi chuyến đi chơi picnic ngày mai không?\nB: Cảm ơn, nhưng tôi sẽ đến rạp chiếu phim với Anna.\n"
+    },
+    {
+        "id": "160",
+        "question": "Next Saturday at this time, we __________________ on the beach in Mexico.",
+        "answers": [
+            "A. will relax",
+            "B. relax",
+            "C. will be relaxing",
+            "D. are going to relax"
+        ],
+        "correct_answer": "C. will be relaxing",
+        "explanation": " C\nDấu hiệu nhận biết thì tương lai tiếp diễn: “at this time”\nDiễn đạt một hành động sẽ xảy ra tại một thời điểm xác định ở tương lai\n→ Thì tương lai tiếp diễn\nDịch: Thứ bảy tuần tới vào thời gian này, chúng ta sẽ đang thư giãn trên bãi biển ở Mexico.\n"
+    },
+    {
+        "id": "161",
+        "question": "Let’s take her some pizza and Coke. I’m sure she will be tired when we get home,\nbecause she _________ the flat all afternoon.",
+        "answers": [
+            "A. will have been cleaning",
+            "B. will be cleaning",
+            "C. is going to clean",
+            "D. have been cleaning"
+        ],
+        "correct_answer": "A. will have been cleaning",
+        "explanation": " A\nCăn cứ vào cách dùng của thì tương lai hoàn thành tiếp diễn:\n=> Diễn tả một hành động sẽ được hoàn thành trước một hành động khác trong tương lai (nhấn\nmạnh quá trình của hành động)\nTa thấy:\nViệc “chúng tôi về nhà” chưa xảy ra. Vì cách dùng when + S + V(hiện tại đơn) -> diễn tả hành\nđộng sẽ xảy ra trong tương. Do đó, việc “cô ấy lau dọn căn hộ cả buổi chiều” sẽ hoàn thành tính\ntới thời điểm “chúng tôi về nhà” (thời điểm của tương lai).\nDịch: Hãy lấy cho cô ấy vài miếng pizza và coca. Tôi chắc là cô ấy sẽ mệt khi chúng ta về nhà,\nvì cô ấy đã lau dọn căn hộ cả buổi chiều.\n"
+    },
+    {
+        "id": "162",
+        "question": "In six months’ time, she _________ from the university.",
+        "answers": [
+            "A. is going to graduate",
+            "B. will be graduating",
+            "C. will graduate",
+            "D. will have\ngraduated"
+        ],
+        "correct_answer": "D. will have\ngraduated",
+        "explanation": " D\nDiễn tả một hành động sẽ hoàn tất tại một thời điểm xác định ở tương lai\n→ Thì tương lai hoàn thành\nDịch: Trong vòng 6 tháng nữa cô ấy sẽ tốt nghiệp đại học.\n"
+    },
+    {
+        "id": "163",
+        "question": "If you need to reach us, we __________________ at the Fairmont Hotel that time.",
+        "answers": [
+            "A. have been staying",
+            "B. are staying",
+            "C. will be staying",
+            "D. had been staying"
+        ],
+        "correct_answer": "C. will be staying",
+        "explanation": " C\nDiễn đạt một hành động sẽ xảy ra tại một thời điểm xác định ở tương lai\n→ Thì tương lai tiếp diễn\nDịch: Nếu bạn cần liên lạc với chúng tôi, chúng tôi sẽ ở khách sạn Fairmont vào thời gian đó.\n"
+    },
+    {
+        "id": "164",
+        "question": "We __________________ you as soon as we arrive in Paris.",
+        "answers": [
+            "A. will call",
+            "B. call",
+            "C. have called",
+            "D. would call"
+        ],
+        "correct_answer": "A. will call",
+        "explanation": " A\nDấu hiệu nhận biết thì tương lai đơn: “as soon as”\nDiễn tả một quyết định, ý định nảy ra tức thời ngay tại thời điểm nói\n→ Thì tương lai đơn\nDịch: Chúng tôi sẽ gọi bạn ngay khi chúng tôi đến Pari.\n"
+    },
+    {
+        "id": "165",
+        "question": "You __________________ yourselves in the Caribbean, while we’re stuck here in\nNew York with this cold weather.",
+        "answers": [
+            "A. are staying",
+            "B. will be enjoying",
+            "C. have been staying",
+            "D. had been staying"
+        ],
+        "correct_answer": "B. will be enjoying",
+        "explanation": " A chưa chính xác vì nếu dùng như vậy nghĩa là hai hành động ở hai vế cùng song song\nxảy ra tại một thời điểm ở hiện tại, khi đó vế sau cũng phải chia ở thì tiếp diễn mới chính xác, là\n“are being stuck”.\nDịch: Trong lúc chúng tôi đang mắc kẹt ở New York trong cái thời tiết lạnh lẽo này thì bạn sẽ\nđang vui vẻ tận hưởng ở Caribbean.\n*Note: Enjoy yourself = have a good time: đang tận hưởng, hưởng thụ, có một thời gian đẹp đẽ\ncho chính mình ở một nơi nào đó để làm gì\n"
+    },
+    {
+        "id": "166",
+        "question": "Susan __________________ credit card payments until her debt is all paid off.",
+        "answers": [
+            "A. make",
+            "B. have made",
+            "C. are made",
+            "D. will make"
+        ],
+        "correct_answer": "D. will make",
+        "explanation": " D\nDấu hiệu nhận biết thì tương lai đơn: “until”\nDiễn đạt một quyết định ngay tại thời điểm nói → Thì tương lai đơn\nDịch: Susan sẽ thanh toán bằng thẻ tín dụng cho đến khi nợ của cô ấy được trả hết.\n"
+    },
+    {
+        "id": "167",
+        "question": "The sky is very black. It __________________.",
+        "answers": [
+            "A. snows",
+            "B. is snowing",
+            "C. is going to snow",
+            "D. will snow"
+        ],
+        "correct_answer": "C. is going to snow",
+        "explanation": " C\nDiễn đạt một lời dự đoán dựa vào bằng chứng ở hiện tại → Thì tương lai gần\nDịch: Bầu trời tối đen. Sắp mưa rồi.\n"
+    },
+    {
+        "id": "168",
+        "question": "But all these things __________________ if you marry me.",
+        "answers": [
+            "A. will happen only",
+            "B. will only happen",
+            "C. happen",
+            "D. are going to happen"
+        ],
+        "correct_answer": "B. will only happen",
+        "explanation": " B\nTrong câu điều kiện loại I (giả định một điều có thể xảy ra ở hiện tại hoặc tương lai), ta có cấu\ntrúc:\nIf + S + V(hiện tại đơn), S + can/may/will/…Vo\n=> Hành động “sẽ xảy ra” không có căn cứ hay kế hoạch nào để đảm bảo tính chắc chắn rằng nó\nsẽ xảy ra trong tương lai gần, do đó không chọn D.\nDịch: Nhưng tất cả những thứ này sẽ chỉ xảy ra nếu em cưới anh.\n"
+    },
+    {
+        "id": "169",
+        "question": "I haven’t made up my mind yet. But I think I __________________ something\nnice in my mum’s wardrobe.",
+        "answers": [
+            "A. am going to",
+            "B. will find",
+            "C. am finding",
+            "D. was finding"
+        ],
+        "correct_answer": "B. will find",
+        "explanation": " B\nDấu hiệu nhận biết thì tương lai đơn: “I think”\nDiễn đạt một quyết định ngay tại thời điểm nói → Thì tương lai đơn\nDịch: Tôi vẫn chưa quyết định được. Nhưng tôi nghĩ tôi sẽ tìm thứ gì đó xinh đẹp trong tủ quần\náo của mẹ tôi.\n"
+    },
+    {
+        "id": "170",
+        "question": "My horoscope says that I __________________ an old friend this week.",
+        "answers": [
+            "A. meet",
+            "B. will meet",
+            "C. am meeting",
+            "D. meets"
+        ],
+        "correct_answer": "B. will meet",
+        "explanation": " B\nDiễn đạt lời dự đoán không có căn cứ → Thì tương lai đơn\nDịch: Lá số tử vi của tôi nói răng tôi sẽ gặp một người bạn cũ tuần này.\n"
+    },
+    {
+        "id": "171",
+        "question": "At this time next Friday evening Mrs. Almanac _________ refreshments for her\nson’s engagement party and _________ her future daughter-in-law.",
+        "answers": [
+            "A. will prepare – will be helping",
+            "B. will be preparing – will be helping",
+            "C. will be preparing – will help",
+            "D. will prepare – will have helped"
+        ],
+        "correct_answer": "B. will be preparing – will be helping",
+        "explanation": " B\nHai động từ nối bởi giới từ “and” luôn chia ở thì giống nhau\nDấu hiệu nhận biết thì tương lai tiếp diễn: “at this time next Friday”\nDiễn đạt một hành động sẽ xảy ra tại một thời điểm xác định ở tương lai\n→ Thì tương lai tiếp diễn\nDịch: Vào thời gian này chiều thứ 6 tới, bà Almanac sẽ chuẩn bị đồ ăn nhẹ cho tiệc đính hôn của\ncon trai và sẽ giúp đỡ con dâu tương lai của bà.\n"
+    },
+    {
+        "id": "172",
+        "question": "By the end of next year, Geoge __________________ English for 2 years.",
+        "answers": [
+            "A. will have learned",
+            "B. will learn",
+            "C. has learned",
+            "D. would learn"
+        ],
+        "correct_answer": "A. will have learned",
+        "explanation": " D\nDấu hiệu nhận biết thì tương lai hoàn thành: “by Friday”\n=> Diễn tả một hành động sẽ hoàn thành vào một thời điểm cho trước ở tương lai.\n→ Thì tương lai hoàn thành\nDịch:\n- Khi nào bạn sẽ gửi bức thư?\n- Chúng tôi sẽ giao bức thư vào thứ sáu.\n"
+    },
+    {
+        "id": "173",
+        "question": "- Can we start the party at 3 o’clock?\n- I don’t think so. All our guests__________________ by then. I’m afraid.",
+        "answers": [
+            "A. won’t have arrived",
+            "B. don’t arrive",
+            "C. haven’t arrived",
+            "D. didn’t arrive"
+        ],
+        "correct_answer": "A. won’t have arrived",
+        "explanation": " A\nDấu hiệu nhận biết thì tương lai hoàn thành: “by then”\nDiễn tả một hành động sẽ không xảy ra vào một thời điểm cho trước ở tương lai, trước khi hành\nđộng, sự việc khác xảy ra → Thì tương lai hoàn thành\nDịch:\nChúng ta có thể bắt đầu bữa tiệc vào 3 giờ được không?\nTôi không nghĩ vậy. Tôi sợ là tất cả khách của chúng ta sẽ chưa đến vào lúc đó.\n"
+    },
+    {
+        "id": "174",
+        "question": "- What does a blonde say when she sees a banana skin lying just a few metres in\nfront of her?\n- Oh dear! I __________________.",
+        "answers": [
+            "A. to slip",
+            "B. will slip",
+            "C. am sliping",
+            "D. am going to slip"
+        ],
+        "correct_answer": "D. am going to slip",
+        "explanation": " D\nDiễn đạt một lời dự đoán dựa vào bằng chứng ở hiện tại → Thì tương lai gần\nDịch:\nMột cô gái tóc vàng hoe sẽ nói gì khi cô ấy thấy vỏ chuối nằm cách vài mét trước mặt?\nTrời ơi! Tôi sẽ trượt chân mất.\n"
+    },
+    {
+        "id": "175",
+        "question": "Here is the weather forecast. Tomorrow __________________ dry and sunny.",
+        "answers": [
+            "A. is going to be",
+            "B. will be",
+            "C. is",
+            "D. would be"
+        ],
+        "correct_answer": "A. is going to be",
+        "explanation": " A\nDiễn đạt một lời dự đoán dựa vào bằng chứng ở hiện tại → Thì tương lai gần\n=> Dự báo thời tiết của truyền hình thì dù chỉ mang tên dự báo nhưng xác suất đúng của nó là\ngần như tuyệt đối vì ngày nay nhờ có hệ thống công nghệ hiện đại, do đó ta có thể hiểu lời dự\nbáo đó là một căn cứ có cơ sở\nDịch: Bây giờ đang có dự báo thời tiết. Ngày mai trời sẽ tạnh ráo và có nắng.\n"
+    },
+    {
+        "id": "176",
+        "question": "- Can I have a look at your photos tomorrow?\n- No, I’m sorry. I _________________ them by tomorrow.",
+        "answers": [
+            "A. will not develop",
+            "B. shall not develop",
+            "C. will not have developed",
+            "D. am developing"
+        ],
+        "correct_answer": "C. will not have developed",
+        "explanation": " C\nDấu hiệu nhận biết thì tương lai hoàn thành: “by tomorrow”\nDiễn tả một hành động sẽ hoàn thành vào một thời điểm cho trước ở tương lai, trước khi hành\nđộng, sự việc khác xảy ra → Thì tương lai hoàn thành\nDịch: -Tôi có thể xem ảnh của bạn ngày mai không?\n- Không, tôi xin lỗi. Cho đến ngày mai thì tôi vẫn chưa rửa chúng xong được. (Đến ngày mai tôi\nmới rửa ảnh xong)\n*Note: Develop the film, photos/….: rửa phim, ảnh,…..\n"
+    },
+    {
+        "id": "177",
+        "question": "I know by the time they come to my house this evening, I ________________ out\nfor a walk.",
+        "answers": [
+            "A. will have gone",
+            "B. will go",
+            "C. will be going",
+            "D. shall go"
+        ],
+        "correct_answer": "A. will have gone",
+        "explanation": " A\nDấu hiệu nhận biết thì tương lai hoàn thành: “by the time”\nDiễn tả một hành động sẽ hoàn thành vào một thời điểm cho trước ở tương lai, trước khi hành\nđộng, sự việc khác xảy ra → Thì tương lai hoàn thành\nCấu trúc:\nBy the time + S + V(hiện tại đơn), S + V(tương lai hoàn thành)\nDịch: Tôi biết khi họ đến nhà tôi vào chiều nay, tôi sẽ đã ra ngoài đi dạo.\n"
+    },
+    {
+        "id": "178",
+        "question": "These machines ________________ very well by the time you come back next\nmonth.",
+        "answers": [
+            "A. will be working",
+            "B. are going to work",
+            "C. will have worked",
+            "D. are working"
+        ],
+        "correct_answer": "C. will have worked",
+        "explanation": " C\nDấu hiệu nhận biết thì tương lai hoàn thành: “by the time”\nDiễn tả một hành động sẽ hoàn thành vào một thời điểm cho trước ở tương lai, trước khi hành\nđộng, sự việc khác xảy ra → Thì tương lai hoàn thành\nDịch: Những cái máy này sẽ hoạt động rất tốt vào thời gian bạn quay lại tháng sau.\n"
+    },
+    {
+        "id": "179",
+        "question": "I hope they _________________ building the road by the time we come back next\nsummer.",
+        "answers": [
+            "A. are finishing",
+            "B. will be working",
+            "C. are going to work",
+            "D. will have finished"
+        ],
+        "correct_answer": "D. will have finished",
+        "explanation": " D\nDấu hiệu nhận biết thì tương lai hoàn thành: “by the time”\nDiễn tả một hành động sẽ hoàn thành vào một thời điểm cho trước ở tương lai, trước khi hành\nđộng, sự việc khác xảy ra → Thì tương lai hoàn thành\nDịch: Tôi hi vọng họ sẽ hoàn thành việc xây dựng con đường vào thời gian chúng ta quay lại\nmùa hè tới.\n"
+    },
+    {
+        "id": "180",
+        "question": "By 2020, the number of schools in our country __________________.",
+        "answers": [
+            "A. will double",
+            "B. will have doubled",
+            "C. are doubling",
+            "D. shall double"
+        ],
+        "correct_answer": "B. will have doubled",
+        "explanation": " B\nDấu hiệu nhận biết thì tương lai hoàn thành: “By 2020”\nDiễn tả một hành động sẽ hoàn thành vào một thời điểm cho trước ở tương lai\n→ Thì tương lai hoàn thành\nDịch: Vào năm 2020, số trường học trong đất nước chúng ta sẽ tăng lên gấp đôi.\n"
+    },
+    {
+        "id": "181",
+        "question": "They __________________ the classroom by the end of the hour.",
+        "answers": [
+            "A. are going to leave",
+            "B. will be leaving",
+            "C. will have left",
+            "D. are leaving"
+        ],
+        "correct_answer": "C. will have left",
+        "explanation": " C\nDấu hiệu nhận biết thì tương lai hoàn thành: “by the end of the hour”\nDiễn tả một hành động sẽ hoàn thành vào một thời điểm cho trước ở tương lai\n→ Thì tương lai hoàn thành\nDịch: Họ sẽ rời phòng học vào cuối giờ.\n"
+    },
+    {
+        "id": "182",
+        "question": "They __________________ pingpong when their father comes back home.",
+        "answers": [
+            "A. will play",
+            "B. will be playing",
+            "C. play",
+            "D. would play"
+        ],
+        "correct_answer": "B. will be playing",
+        "explanation": " B\nDiễn đạt một hành động sẽ xảy ra tại một thời điểm xác định ở tương lai.\n→ Thì tương lai tiếp diễn\nDịch: Họ sẽ đang chơi bóng bàn khi cha họ quay về nhà.\n"
+    },
+    {
+        "id": "183",
+        "question": "I’m going on holiday on Saturday.This time next week I __________ on a beach in\nthe sea.",
+        "answers": [
+            "A. will lie",
+            "B. am lying",
+            "C. will be lying",
+            "D. should be lying"
+        ],
+        "correct_answer": "C. will be lying",
+        "explanation": " C\nDấu hiệu nhận biết thì tương lai tiếp diễn: “This time next week”\nDiễn đạt một hành động sẽ xảy ra tại một thời điểm xác định ở tương lai.\n→ Thì tương lai tiếp diễn\nDịch: Tôi đang đi nghỉ vào thứ bảy. Thời gian này tuần tới tôi sẽ đang nằm trên bãi biển.\n"
+    },
+    {
+        "id": "184",
+        "question": "At 8 o’clock this evening my friends and I _____________ a famous film at the\ncinema.",
+        "answers": [
+            "A. were watching",
+            "B. will be watching",
+            "C. have been watching",
+            "D. watched"
+        ],
+        "correct_answer": "B. will be watching",
+        "explanation": " B\nDấu hiệu nhận biết thì tương lai tiếp diễn: “at 8 o’clock this evening”\nDiễn đạt một hành động sẽ xảy ra tại một thời điểm xác định ở tương lai.\n→ Thì tương lai tiếp diễn\nDịch: Vào 8 giờ tối nay bạn tôi và tôi sẽ đi xem một bộ phim nổi tiếng ở rạp chiếu phim.\n"
+    },
+    {
+        "id": "185",
+        "question": "They ________________ their presentation at this time tomorrow morning.",
+        "answers": [
+            "A. are making",
+            "B. are going to make",
+            "C. will be making",
+            "D. will make"
+        ],
+        "correct_answer": "C. will be making",
+        "explanation": " C\nDấu hiệu nhận biết thì tương lai tiếp diễn: “at this time tomorrow morning”\nDiễn đạt một hành động sẽ đang xảy ra tại một thời điểm xác định ở tương lai.\n→ Thì tương lai tiếp diễn\nDịch: Họ sẽ đang làm bài thuyết trình của mình vào thời điểm này sáng ngày mai.\n"
+    },
+    {
+        "id": "186",
+        "question": "When they ________________ tomorrow, we _________________ in the sea.",
+        "answers": [
+            "A. come – swim",
+            "B. are coming - swim",
+            "C. are coming - are swimming",
+            "D. come - will be swimming"
+        ],
+        "correct_answer": "D. come - will be swimming",
+        "explanation": " D\nDiễn đạt một hành động sẽ xảy ra tại một thời điểm xác định ở tương lai.\nCấu trúc: “when + S + V(hiện tại đơn), S + will be Ving + ….”\n→ Thì tương lai tiếp diễn\nDịch: Khi họ đến vào ngày mai, chúng ta sẽ đang bơi ở trên biển.\n"
+    },
+    {
+        "id": "187",
+        "question": "She ________________ from the excursion by 6 o’clock.",
+        "answers": [
+            "A. will have returned",
+            "B. is going to return",
+            "C. is returning",
+            "D. will be returning"
+        ],
+        "correct_answer": "A. will have returned",
+        "explanation": " là A\n"
+    },
+    {
+        "id": "188",
+        "question": "We _________ working for ten days when they pay our wages tomorrow.",
+        "answers": [
+            "A. were going to be",
+            "B. are going to",
+            "C. will be",
+            "D. will have been"
+        ],
+        "correct_answer": "D. will have been",
+        "explanation": " D\nDiễn tả một hành động sẽ hoàn thành vào một thời điểm cho trước ở tương lai, trước khi hành\nđộng, sự việc khác xảy ra → Thì tương lai hoàn thành\nDịch: Tính đến khi họ trả lương vào ngày mai, chúng ta đã làm việc được 10 ngày .\n"
+    },
+    {
+        "id": "189",
+        "question": "By the end of next month, I _________ the project to the committee.",
+        "answers": [
+            "A. will have presented",
+            "B. will present",
+            "C. will be presenting",
+            "D. will have been presenting"
+        ],
+        "correct_answer": "A. will have presented",
+        "explanation": " A\nTa có quy tắc:\nBy + dấu hiệu của quá khứ -> chia thì quá khứ hoàn thành\nBy + dấu hiệu của tương lai -> chia thì tương lai hoàn thành\nCăn cứ vào cụm \" By the end of next month (vào cuối của tháng tới)\n→ Thì tương lai hoàn thành\nDịch: Vào cuối tháng tới, tôi sẽ trình bày xong dự án của mình với ủy ban.\n"
+    },
+    {
+        "id": "190",
+        "question": "She __________________the movie before you bring the DVD.",
+        "answers": [
+            "A. is seeing",
+            "B. will be seeing",
+            "C. is going to see",
+            "D. will have seen"
+        ],
+        "correct_answer": "D. will have seen",
+        "explanation": " D\nDiễn tả một hành động sẽ hoàn thành vào một thời điểm cho trước ở tương lai, trước khi hành\nđộng, sự việc khác xảy ra → Thì tương lai hoàn thành\nDịch: Cô ấy sẽ xem xong bộ phim trước khi bạn mang DVD đến.\n"
+    },
+    {
+        "id": "191",
+        "question": "When you look through the small window, you _________ that the safe is in its\nusual place.",
+        "answers": [
+            "A. would discover",
+            "B. discovered",
+            "C. will be discovering",
+            "D. will discover"
+        ],
+        "correct_answer": "D. will discover",
+        "explanation": " D\nDiễn đạt một câu hứa hẹn → Thì tương lai đơn\nDịch: Khi bạn nhìn qua cửa sổ nhỏ, bạn sẽ nhận ra cái két vẫn ở vị trí của nó.\n"
+    },
+    {
+        "id": "192",
+        "question": "Tell him I _________ anything with him until I have spoken with my wife.",
+        "answers": [
+            "A. won’t discuss",
+            "B. haven’t discussed",
+            "C. don’t discuss",
+            "D. didn’t discuss"
+        ],
+        "correct_answer": "A. won’t discuss",
+        "explanation": " A\nDiễn đạt một quyết định ngay tại thời điểm nói → Thì tương lai đơn\nDịch: Nói với anh ta tôi sẽ không bàn bạc bất kì điều gì cho đến khi tôi được nói chuyện với vợ\nmình.\n"
+    },
+    {
+        "id": "193",
+        "question": "When I finish this course, I _________ to the next level.",
+        "answers": [
+            "A. have gone",
+            "B. will go",
+            "C. went",
+            "D. would go"
+        ],
+        "correct_answer": "B. will go",
+        "explanation": " B\nDiễn đạt một quyết định ngay tại thời điểm nói → Thì tương lai đơn\nDịch: Khi tôi hoàn thành xong khóa học này, tôi sẽ lên trình độ tiếp theo.\n"
+    },
+    {
+        "id": "194",
+        "question": "She is really worried that she _________ to the exam because she doesn’t have her\nidentity card on her.",
+        "answers": [
+            "A. haven’t admitted",
+            "B. is not admittting",
+            "C. hadn’t been admitted",
+            "D. won’t be\nadmitted"
+        ],
+        "correct_answer": "D. won’t be\nadmitted",
+        "explanation": " D\nDiễn tả một dự đoán mang tính chủ quan không có căn cứ → Thì tương lai đơn\nDịch: Cô ấy thực sự lo lắng về việc sẽ không được tham gia vào bài kiểm tra vì cô ấy không\nmang chứng minh nhân dân.\n"
+    },
+    {
+        "id": "195",
+        "question": "My mom __________________ for two days by the time I see her.",
+        "answers": [
+            "A. will have been travelling",
+            "B. has been travelling",
+            "C. will has been travelling",
+            "D. has been travelled"
+        ],
+        "correct_answer": "A. will have been travelling",
+        "explanation": " A\nTa có cấu trúc:\nBy the time + S + V(hiện tại đơn), S + V(tương lai hoàn thành)\n(Lí do: Ta dùng tương lai hoàn thành tiếp diễn để nhấn mạnh tính liên tục của hành động.)\nDịch: Mẹ tôi sẽ đi du lịch được 2 ngày tính đến thời điểm tôi gặp mẹ.\n"
+    },
+    {
+        "id": "196",
+        "question": "That cat _________ you if you pull its tail.",
+        "answers": [
+            "A. scratches",
+            "B. has scratched",
+            "C. will scratch",
+            "D. is going to scratch"
+        ],
+        "correct_answer": "C. will scratch",
+        "explanation": " C\nTrong câu điều kiện loại I (giả định một điều có thể xảy ra ở hiện tại hoặc tương lai), ta sử dụng\nthì tương lai đơn.\nDịch: Con mèo kia sẽ cào bạn nếu bạn kéo đuôi của nó.\n"
+    },
+    {
+        "id": "197",
+        "question": "I ________________ Alex your letter when I see her tomorrow.",
+        "answers": [
+            "A. will send",
+            "B. am going to send",
+            "C. are sending",
+            "D. shall send"
+        ],
+        "correct_answer": "A. will send",
+        "explanation": " A\nDiễn đạt một quyết định ngay tại thời điểm nói → Thì tương lai đơn\nDịch: Tôi sẽ đưa Alex thư của cậu khi tôi gặp cô ấy vào ngày mai.\n"
+    },
+    {
+        "id": "198",
+        "question": "- What are your plans for the holiday?\n- I ________________ my grandparents and then go trekking in Sapa.",
+        "answers": [
+            "A. am going to visit",
+            "B. shall go",
+            "C. will go to visit",
+            "D. will go"
+        ],
+        "correct_answer": "A. am going to visit",
+        "explanation": " A\nDiễn đạt một kế hoạch, dự định → Thì tương lai gần\nDịch:\n- Bạn có những kế hoạch gì cho ngày nghỉ?\n- Tôi sẽ thăm ông bà và sau đó đi leo núi ở Sapa.\n"
+    },
+    {
+        "id": "199",
+        "question": "While they _________ to Wyoming, their car ran out of gas.",
+        "answers": [
+            "A. drove",
+            "B. had been driving",
+            "C. have driven",
+            "D. were driving"
+        ],
+        "correct_answer": "D. were driving",
+        "explanation": " D\nDịch: Trong khi họ đang lái xe đến Wyoming, xe của họ hết xăng.\n=> Diễn tả một hành động đang xảy ra thì có hành động khác xen vào, hành động nào xảy ra\ntrước chia thì quá khứ tiếp diễn, hành động xảy ra sau chia thì quá khứ đơn.\n"
+    },
+    {
+        "id": "200",
+        "question": "Alice looked much slimmer because she _________ for a few months.",
+        "answers": [
+            "A. had been dieting",
+            "B. has been dieting",
+            "C. was dieting",
+            "D. diets"
+        ],
+        "correct_answer": "A. had been dieting",
+        "explanation": " A\n- Căn cứ vào trạng từ “for a few months” nên mệnh đề sau chia thì hiện tại hoàn thành. Tuy\nnhiên, căn cứ vào động từ “looked” ở mệnh đề trước chia thì quá khứ đơn nên mệnh đề sau phải\nlùi một thì thành thì quá khứ hoàn thành.\n- Dịch nghĩa: Alice trông gầy hơn nhiều vì cô ấy đã ăn kiêng mấy tháng rồi.\n=> Căn cứ theo nghĩa của câu: Nhấn mạnh tính liên tục của hành động “ăn kiêng” dẫn đến kết\nquả “trông gầy hơn” nên ta chia ở thì quá khứ hoàn thành tiếp diễn.\n"
+    },
+    {
+        "id": "201",
+        "question": "When she’s done the ironing, she _________ the length of the dress for me.",
+        "answers": [
+            "A. is altering",
+            "B. altered",
+            "C. will alter",
+            "D. has altered"
+        ],
+        "correct_answer": "C. will alter",
+        "explanation": ": will alter.\n* Giải thích: when S + V (hiện tại đơn/ hiện tại hoàn thành), S + will Vo: diễn tả 2 hành động\nxảy ra lần lượt từ hiện tại tới tương lai.\n* Dịch nghĩa: Sau khi là xong, cô ta sẽ sửa lại chiều dài váy cho tôi.\n"
+    },
+    {
+        "id": "202",
+        "question": "You are too slow. I’m sure that by the time you phone them, they ______ that car to\nsomeone else.",
+        "answers": [
+            "A. will sell",
+            "B. will have sold",
+            "C. are going to sell",
+            "D. are selling"
+        ],
+        "correct_answer": "B. will have sold",
+        "explanation": ": will have sold.\n"
+    },
+    {
+        "id": "203",
+        "question": "As soon as they _________ my last book, I _________ you a copy with my\nautograph.",
+        "answers": [
+            "A. will print – will send",
+            "B. had printed – will send",
+            "C. printed – will be sending",
+            "D. print – will send"
+        ],
+        "correct_answer": "D. print – will send",
+        "explanation": " D\n- Dịch nghĩa: Ngay khi họ in quyển sách cuối cùng của tôi, tôi sẽ gửi bản sao có chữ ký của tôi\ncho anh.\n- Căn cứ vào: kiến thức về sự phối thì: As soon as + S + V(hiện tại đơn), S + V(tương lai đơn).\n"
+    },
+    {
+        "id": "204",
+        "question": "Because the children _________ forward to seeing Harry Potter for so long, I took\nthem even though it was really inconvenient for me.",
+        "answers": [
+            "A. had been looking",
+            "B. were looking",
+            "C. have been looking",
+            "D. looked"
+        ],
+        "correct_answer": "A. had been looking",
+        "explanation": " A\n- Dịch nghĩa: Bởi vì lũ trẻ đã mong chờ được xem Harry Potter quá lâu, tôi đã đưa chúng đi dù\nnó khá là bất tiện với tôi.\n- “Việc lũ trẻ mong chờ” chia thì quá khứ hoàn thành vì:\n+ “for so long” nhấn mạnh tính liên tục, việc mong chờ này đã rất lâu rồi.\n+ Chúng mong chờ trước khi “có người” đưa chúng đi.\n"
+    },
+    {
+        "id": "205",
+        "question": "When we _________ at the airport we _________ that we _________ our passports\nat the office.",
+        "answers": [
+            "A. arrived – had noticed – had left",
+            "B. arrived – noticed – had left",
+            "C. have arrived – noticed – left",
+            "D. had arrived – have noticed – have left"
+        ],
+        "correct_answer": "B. arrived – noticed – had left",
+        "explanation": ": arrived – noticed – had left.\n"
+    },
+    {
+        "id": "206",
+        "question": "Generally he _____ to work by car, but today he ______ by bus because his car is in\nthe garage.",
+        "answers": [
+            "A. went – went",
+            "B. was going – is going",
+            "C. goes – is going",
+            "D. has been going – goes"
+        ],
+        "correct_answer": "C. goes – is going",
+        "explanation": " C\ngoes – is going\n* Giải thích:\n- dùng hiện tại đơn diễn tả thói quen hằng ngày.\n- dùng hiện tại tiếp diễn: diễn tả hành động sẽ xảy ra trong tương lai (“today”: ngày hôm nay)\n* Dịch: Bình thường anh ấy đi làm bằng ô tô những hôm nay anh sẽ đi bus vì xe của anh ấy đang\nở garage.\n"
+    },
+    {
+        "id": "207",
+        "question": "He _________ for over three hours when he finished the report.",
+        "answers": [
+            "A. will have typed",
+            "B. was typing",
+            "C. has been typing",
+            "D. had been typing"
+        ],
+        "correct_answer": "D. had been typing",
+        "explanation": ": had been typing.\n* Căn cứ: dùng quá khứ hoàn thành để diễn tả 1 hành động đã diễn ra trong 1 khoảng thời gian\ndài trong quá khứ.\n* Dịch nghĩa: Anh ta đã đánh máy hơn 3 tiếng cho đến khi hoàn thành bài báo cáo.\n"
+    },
+    {
+        "id": "208",
+        "question": "Three days ago her boyfriend _________ her and she _________ continually ever\nsince.",
+        "answers": [
+            "A. left – is crying",
+            "B. had left – cried",
+            "C. left – has been crying",
+            "D. had left – was\ncrying"
+        ],
+        "correct_answer": "C. left – has been crying",
+        "explanation": " C\n* Ta có: ago => chia thì quá khứ đơn\n- ever since => Hiện tại hoàn thành. Tuy nhiên, có “continually” càng nhấn mạnh tính liên tục\ncủa hành động trong suốt quá trình, nên ta dùng thì hiện tại hoàn thành tiếp diễn\n* Dịch nghĩa: Ba ngày trước bạn trai cô ta bỏ cô ta và cô ta đã khóc suốt từ hôm đó.\n"
+    },
+    {
+        "id": "209",
+        "question": "This is the first customer we _________ something today.",
+        "answers": [
+            "A. have sold",
+            "B. sold",
+            "C. had sold",
+            "D. were selling"
+        ],
+        "correct_answer": "A. have sold",
+        "explanation": ": A\nTạm dịch: Đây là vị khách hàng đầu tiên mà hôm nay chúng tôi đã bán cho.\n"
+    },
+    {
+        "id": "210",
+        "question": "Andrew _________ the plants in the garden right now but I _________ sure that it\nwill rain this afternoon.",
+        "answers": [
+            "A. is watering – was",
+            "B. is watering – am",
+            "C. waters – am",
+            "D. watered – was"
+        ],
+        "correct_answer": "B. is watering – am",
+        "explanation": " B\n- Dịch nghĩa: Andrew đang tưới cây trong vườn bây giờ nhưng tôi chắc rằng trời sẽ mưa chiều\nnay.\n- Vế 1 có “right now” => chia thì hiện tại tiếp diễn.\n=> Loại C, D vì không hợp thì (vế trước hiện tại - vế sau quá khứ)\n"
+    },
+    {
+        "id": "211",
+        "question": "She should have informed the police as soon as she _________ that her purse had\nbeen stolen.",
+        "answers": [
+            "A. discovered",
+            "B. would discover",
+            "C. had discovered",
+            "D. has discovered"
+        ],
+        "correct_answer": "A. discovered",
+        "explanation": " A\nDịch nghĩa: Cô ấy lẽ ra nên thông báo cho cảnh sát ngay khi cô ấy phát hiện ra cái ví của mình\nđã bị mất trộm.\n=> Ta có hành động “mất ví” xảy ra trước hành động “phát hiện” nên ta chia thì quá khứ đơn cho\nhành động diễn ra sau là “phát hiện”; hành động diễn ra trước chia quá khứ hoàn thành.\n"
+    },
+    {
+        "id": "212",
+        "question": "My father _________ to rent a car when one of his friends phoned him to offer his\nown car for the trip.",
+        "answers": [
+            "A. had decided",
+            "B. was deciding",
+            "C. has decided",
+            "D. decided"
+        ],
+        "correct_answer": "A. had decided",
+        "explanation": " A\nTạm dịch: Bố tôi đã quyết định thuê một chiếc xe hơi thì một trong số những người bạn của bố\nđã gọi điện để đề nghị dùng xe của ông ấy cho chuyến đi.\n=> Việc bố tôi quyết định thuê một chiếc xe hơi xảy ra trước hành động bạn bố tôi gọi. => Trước\ncủa quá khứ ta chia thì quá khứ hoàn thành.\n*Hành động “decide” trong ngữ cảnh này không thể chia thì tiếp diễn, vì nó là hành động tức\nthời nên không chọn B để hiểu nó theo cách một hành động đang diễn ra thì có một hành động\nkhác xen vào.\n"
+    },
+    {
+        "id": "213",
+        "question": "When he _________ he _________ on a bed in a room with no windows.",
+        "answers": [
+            "A. had woken up – was lying",
+            "B. woke up – was lying",
+            "C. wakes up – is lying",
+            "D. woke up – lay"
+        ],
+        "correct_answer": "B. woke up – was lying",
+        "explanation": " B\nDịch: Khi tỉnh dậy hắn thấy mình đang nằm trên 1 chiếc giường trong 1 căn phòng không có cửa\nsổ.\n=> Một hành động đang xảy ra thì có hành động khác xen vào, hành động nào xảy ra trước chia\nthì quá khứ tiếp diễn, hành động nào xảy ra sau chia thì quá khứ đơn.\nTa thấy: hành động thức giấc là hành động xảy ra sau -> quá khứ đơn (woke up)\nhành động đang nằm xảy ra trước và vẫn còn đang xảy ra -> quá khứ tiếp diễn (was\nlying)\n"
+    },
+    {
+        "id": "214",
+        "question": "The teacher _________ to the class before the students _________ the problems.",
+        "answers": [
+            "A. will come back – have solved",
+            "B. had come back – solved",
+            "C. came back – have solved",
+            "D. is coming back – solve"
+        ],
+        "correct_answer": "B. had come back – solved",
+        "explanation": " B\nDịch nghĩa: Giáo viên đã quay trở lại trước khi học sinh giải quyết được vấn đề.\nQuy tắc: Trước BEFORE chia quá khứ hoàn thành sau BEFORE chia quá khứ đơn.\n*Note: Come - came - come (v): đến\n=> Lưu ý ở đây không dùng đáp án A được. Vì nếu dùng thì tương lai với “before” như vậy thì\nphải theo cấu trúc, ta chia tương lai hoàn thành, diễn tả một hành động xảy ra trước một thời\nđiểm xác định hoặc một hành động khác trong tương lai, không thể dùng đơn thuần dùng thì\ntương lai mô tả một sự việc sẽ xảy ra trong tương lai khi đi kèm với mệnh đề thời gian có\n“before” như vậy:\nS + will have Vp2 + ….. + before + S + V (hiện tại đơn/hiện tại hoàn thành)\n"
+    },
+    {
+        "id": "215",
+        "question": "Yesterday on TV they _________ a heavy shower for today, but I _________ even\na single drop yet.",
+        "answers": [
+            "A. announced – am not seeing",
+            "B. announced – didn’t see",
+            "C. have announced – haven’t seen",
+            "D. announced – haven’t seen"
+        ],
+        "correct_answer": "D. announced – haven’t seen",
+        "explanation": " D\nannounced – haven’t seen\n* Giải thích: yesterday => Qk đơn; yet => hiện tại hoàn thành\n* Dịch nghĩa: Hôm qua TV báo hôm nay sẽ mưa rào nhưng tôi chưa thấy hạt mưa nào cả.\n"
+    },
+    {
+        "id": "216",
+        "question": "You don’t have to worry about the children, they ______ all about this by the end of\nthe semester.",
+        "answers": [
+            "A. will be forgetting",
+            "B. will have forgotten",
+            "C. will forget",
+            "D. are going to forget"
+        ],
+        "correct_answer": "B. will have forgotten",
+        "explanation": ": will have forgotten.\n* Giải thích: by + mốc thời gian tương lai => chia thì tương lai hoàn thành.\n* Dịch nghĩa: Không cần lo về lũ trẻ đâu, chúng sẽ quên hết sau khi hết kỳ học này thôi.\n"
+    },
+    {
+        "id": "217",
+        "question": "I’ve just noticed that she _________ a haircut. It _________ wonderful.",
+        "answers": [
+            "A. will have – has looked",
+            "B. had had – looked",
+            "C. has had – looks",
+            "D. had – is\nlooking"
+        ],
+        "correct_answer": "C. has had – looks",
+        "explanation": " C\nGiải thích: hiện tại hoàn thành diễn tả 1 hành động mới xảy ra và kết quả còn ở hiện tại.\n- Chú ý: look với nghĩa là “trông” nên không chia thì tiếp diễn\nDịch nghĩa: Tôi vừa mới nhận ra là cô ấy đã cắt tóc. Trông thật tuyệt.\n"
+    },
+    {
+        "id": "218",
+        "question": "While she _________ for her sister outside the supermarket, someone _________\nher handbag.",
+        "answers": [
+            "A. had to wait – had stolen",
+            "B. waited – had been stealing",
+            "C. had waited – was stealing",
+            "D. was waiting – stole"
+        ],
+        "correct_answer": "D. was waiting – stole",
+        "explanation": " D\nwas waiting – stole\nGiải thích: while S –Ving: Trong khi ai đó đang làm gì\nDịch: Trong khi cô ấy chờ chị gái ngoài siêu thị, ai đó đã trộm túi của cô.\n"
+    },
+    {
+        "id": "219",
+        "question": "The spokesperson _________ her speech yet when an angry audience member\n_________ shouting at her.",
+        "answers": [
+            "A. won’t finish – begins",
+            "B. didn’t finish – was beginning",
+            "C. hadn’t finished – began",
+            "D. doesn’t finish – is beginning"
+        ],
+        "correct_answer": "C. hadn’t finished – began",
+        "explanation": " C\nhadn’t finished – began\nGiải thích: yet => thì hoàn thành\nDịch: Phát thanh viên vẫn chưa nói xong khi mà một khán giả bắt đầu tức giận quát mắng cô.\n"
+    },
+    {
+        "id": "220",
+        "question": "This is the forty-second composition paper I ______ so far, and there _____\nseventy-five more.",
+        "answers": [
+            "A. will have checked – are going to be",
+            "B. had checked – were",
+            "C. have checked – are",
+            "D. checked – will be"
+        ],
+        "correct_answer": "C. have checked – are",
+        "explanation": " C\n=> Ta có: This is the first/second/… + S + (have) P2: đây là cái thứ mấy, lần thứ mấy … ai đó\nlàm gì đó\n=> Dùng thì hiện tại hoàn thành cho vế đầu.\nDịch: Đây là bản thảo thứ 42 tôi kiểm tra, và vẫn còn 75 bản nữa.\n"
+    },
+    {
+        "id": "221",
+        "question": "The carelessness of parents often _________ children to be subject to many\nhousehold accidents.",
+        "answers": [
+            "A. causes",
+            "B. have caused",
+            "C. had caused",
+            "D. is caused"
+        ],
+        "correct_answer": "A. causes",
+        "explanation": ": causes\n* Giải thích: hiện tại đơn diễn tả 1 sự thật hiển nhiên, 1 chân lý.\n* Dịch nghĩa: Sự bất cẩn của cha mẹ thường khiến trẻ em chịu nhiều tai nạn trong gia đình.\n"
+    },
+    {
+        "id": "222",
+        "question": "By the end of the term, I _________ all eight volumes.",
+        "answers": [
+            "A. will be reading",
+            "B. read",
+            "C. have read",
+            "D. will have read"
+        ],
+        "correct_answer": "D. will have read",
+        "explanation": " D\n* Giải thích: “by + mốc thời gian tương lai” phải chia thì hoàn thành\n* Dịch nghĩa: Đến cuối kỳ này, tôi sẽ đọc hết 8 cuốn.\n"
+    },
+    {
+        "id": "223",
+        "question": "She says she won’t phone us until she _________ the information.",
+        "answers": [
+            "A. has",
+            "B. is having",
+            "C. will have",
+            "D. had"
+        ],
+        "correct_answer": "A. has",
+        "explanation": ": has.\n* Căn cứ vào mệnh đề trạng ngữ chỉ thời gian:\n- S + will + V(nguyên dạng) until + S + V (hiện tại đơn/ hiện tại hoàn thành)\n* Dịch nghĩa: Cô ấy nói sẽ không nghe điện thoại của chúng tôi cho đến khi cô ấy có thông tin.\n"
+    },
+    {
+        "id": "224",
+        "question": "When we _________ out, the chest cavity _________ smaller.",
+        "answers": [
+            "A. breathe – became",
+            "B. breathe – becomes",
+            "C. will breathe – will become",
+            "D. will breathe – becomes"
+        ],
+        "correct_answer": "B. breathe – becomes",
+        "explanation": " B\nbreathe – becomes\nGiải thích: hiện tại đơn diễn tả 1 sự thật hiển nhiên\nDịch: Khi chúng ta thở ra, lồng ngực sẽ nhỏ đi.\n"
+    },
+    {
+        "id": "225",
+        "question": "Our local grocers said he _________ the groceries as soon as he _________ my\norder.",
+        "answers": [
+            "A. had sent – had received",
+            "B. will have sent – has received",
+            "C. has sent – receives",
+            "D. sent – had received"
+        ],
+        "correct_answer": "A. had sent – had received",
+        "explanation": " A\n*Cấu trúc: S + V (quá khứ đơn) + as soon as + S + V(quá khứ đơn) -> diễn tả hành động xảy\nra nối tiếp nhau trong quá khứ\n*Căn cứ vào “Our local grocers said….” -> câu tường thuật nên động từ phía sau phải lùi thì\nTạm dịch: Người bán hàng tạp hóa địa phương nói rằng ông ấy đã gửi hàng ngay khi ông ấy\nnhận được đơn đặt hàng của tôi.\n"
+    },
+    {
+        "id": "226",
+        "question": "He _________ the mayor of the town for seven years until his death last year.",
+        "answers": [
+            "A. would have been",
+            "B. has been",
+            "C. had been",
+            "D. will have been"
+        ],
+        "correct_answer": "C. had been",
+        "explanation": " C\nDịch nghĩa: Ông ta đã làm thị trưởng thị trấn khoảng bảy năm cho đến ông ấy mất vào năm\nngoái.\n=> Hành động ông ấy làm thị trưởng xảy ra trước khi ông ấy mất => trước của quá khứ ta chia\nthì quá khứ hoàn thành\n"
+    },
+    {
+        "id": "227",
+        "question": "My father asked me if I _________ an increase in salary the following month.",
+        "answers": [
+            "A. am getting",
+            "B. was getting",
+            "C. am going to get",
+            "D. will get"
+        ],
+        "correct_answer": "B. was getting",
+        "explanation": " B\nGiải thích: câu tường thuật => lùi thì động từ về quá khứ.\n-Trong câu tường thuật “next month” -> “the following month”.\nDịch: Bố tôi đã hỏi tôi là lương tháng tới của tôi có được tăng không.\n"
+    },
+    {
+        "id": "228",
+        "question": "As we _________ tired of waiting, we _________ to go without them.",
+        "answers": [
+            "A. are – are deciding",
+            "B. were – have decided",
+            "C. are – decided",
+            "D. were –\ndecided"
+        ],
+        "correct_answer": "D. were –\ndecided",
+        "explanation": " D\n* Giải thích: diễn tả các hành động xảy ra nối tiếp nhau trong quá khứ ta dùng thì quá khứ đơn\ncho lần lượt các động từ.\n* Dịch nghĩa: Vì quá mệt mỏi với việc phải chờ đợi, chúng tôi quyết định đi mà không có họ.\n"
+    },
+    {
+        "id": "229",
+        "question": "That cat _________ you if you pull its tail.",
+        "answers": [
+            "A. scratches",
+            "B. has scratched",
+            "C. will scratch",
+            "D. is going to scratch"
+        ],
+        "correct_answer": "C. will scratch",
+        "explanation": " C\n* Căn cứ vào:\n- Cấu trúc câu điều kiện loại 1: If + S + V(hiện tại đơn), S + V(tương lai đơn).\n* Dịch nghĩa: Con mèo kia sẽ cào nếu bạn kéo đuôi nó.\n"
+    },
+    {
+        "id": "230",
+        "question": "I see you have a saw in your hands. _________ you _________ the dry tree\nbranches?",
+        "answers": [
+            "A. Will – cut off",
+            "B. Are – going to cut off",
+            "C. Do – cut off",
+            "D. Will – be cutting\noff"
+        ],
+        "correct_answer": "B. Are – going to cut off",
+        "explanation": " B\n* Giải thích: be going to: diễn tả 1 hành động chắc chắn xảy ra trong tương lai hoặc có khả năng\ncao vì có bằng chứng cho điều đó (cái cưa)\n* Dịch nghĩa: Tôi thấy bạn đang cầm một chiếc cưa. Bạn định chặt cành cây khô à?\n"
+    },
+    {
+        "id": "231",
+        "question": "I _________ coal into the stove. That’s why my hands are all dirty.",
+        "answers": [
+            "A. had put",
+            "B. was putting",
+            "C. had been putting",
+            "D. have been putting"
+        ],
+        "correct_answer": "D. have been putting",
+        "explanation": " D\n* Giải thích: thì hiện tại hoàn thành diễn tả hành động đã kết thúc trong quá khứ và để lại kết\nquả ở hiện tại\n=> Dùng thì hiện tại tiếp diễn để nhấn mạnh hành động đó đã diễn ra và kéo dài liên tục từ một\nthời điểm trong quá khứ cho đến khi dừng lại và để lại kết quả ở hiện tại\n* Dịch nghĩa: Tôi mới cho than vào bếp. Thế nên tay mới bẩn thế này.\n"
+    },
+    {
+        "id": "232",
+        "question": "The committee _________ a report when it _________ all the available\ninformation.",
+        "answers": [
+            "A. will submit – has collected",
+            "B. submits – collected",
+            "C. will submit – will collect",
+            "D. will submit – collected"
+        ],
+        "correct_answer": "A. will submit – has collected",
+        "explanation": " A: will submit – has collected\nGiải thích: diễn tả 1 hành động trong tương lai xảy ra sau khi đã hoàn thành 1 hành động khác ở\nhiện tại\nDịch: Ủy ban sẽ gửi báo cáo khi đã thu thập đủ thông tin.\n"
+    },
+    {
+        "id": "233",
+        "question": "The patient _________ after he _________ ill for a long time.",
+        "answers": [
+            "A. died – has been",
+            "B. dies – had been",
+            "C. died – had been",
+            "D. will die – will be"
+        ],
+        "correct_answer": "C. died – had been",
+        "explanation": " C\ndied – had been\nGiải thích: câu chứa “for + khoảng thời gian” phải chia thì hoàn thành; Mệnh đề 1(Qk đơn) after\nMệnh đề 2 (quá khứ hoàn thành): một hành động trong quá khứ diễn ra sau 1 hành động khác đã\ndiễn ra trước đó.\nDịch: Bệnh nhân đã chết sau khi bị bệnh 1 thời gian dài.\n"
+    },
+    {
+        "id": "234",
+        "question": "By the time the security guards _________ what _________, the gang _________\nalready___ inside the bank.",
+        "answers": [
+            "A. realized – was happening – had – been",
+            "B. will have realized – will be happening –\nwere",
+            "C. had realized – happened – are",
+            "D. have realized – happened – were"
+        ],
+        "correct_answer": "A. realized – was happening – had – been",
+        "explanation": " A\nrealized – was happening – had - been\nGiải thích: by the time MỆNH ĐỀ 1, Mệnh đề 2 => Mệnh đề 1 chia quá khứ đơn, Mệnh đề 2\nchia quá khứ hoàn thành: diễn tả 1 hành động trong quá khứ xảy ra khi một hành động khác đã\nxảy ra rồi.\nDịch: Khi mà bảo an nhận ra điều gì đang diễn ra khi đó thì bọn cướp đã đột nhập vào ngân hàng\nrồi.\n"
+    },
+    {
+        "id": "235",
+        "question": "Although he _________ to listen to the teacher, he _________ of the football\nmatch all the time.",
+        "answers": [
+            "A. has pretended – thought",
+            "B. pretended – was thinking",
+            "C. pretended – has thought",
+            "D. pretends – was thinking"
+        ],
+        "correct_answer": "B. pretended – was thinking",
+        "explanation": " B\n* Giải thích: all the time => chia thì quá khứ tiếp diễn: diễn tả 1 hành động diễn ra liên tục trong\n1 khoảng thời gian trong quá khứ; thì của 2 mệnh đề phải tương đương nhau do đó cùng chia ở\nthì quá khứ\n* Dịch nghĩa: Mặc dù anh ta giả vờ nghe giảng bài nhưng anh ta đã nghĩ về trận bóng trong suốt\nkhoảng thời gian đó.\n"
+    },
+    {
+        "id": "236",
+        "question": "He _________ so much money that he _________ what to do with it.",
+        "answers": [
+            "A. earned – hadn’t known",
+            "B. earns – didn’t know",
+            "C. earns – doesn’t know",
+            "D. has earned – didn’t know"
+        ],
+        "correct_answer": "C. earns – doesn’t know",
+        "explanation": " C\nGiải thích: Dùng thì hiện tại đơn để diễn tả 1 sự thật trong cuộc sống của ai đó\nCác đáp án còn lại:\nA. Sai vì hành động kiếm tiền phải xảy ra trước rồi mới đến hành động không biết làm gì với nó\n-> hành động “earn” phải chia thì quá hoàn thành và “not know” chia quá khứ đơn mới phù hợp\nB. Không có quy tắc phối thì hiện tại đơn và quá khứ đơn như vậy\nD. Sai tương tự đáp án A\nDịch: Anh ta kiếm quá nhiều tiền đến mức không biết phải làm gì với chúng cả.\n"
+    },
+    {
+        "id": "237",
+        "question": "“You’ve just missed the last bus.” – “Never mind, I _________.”",
+        "answers": [
+            "A. will walk",
+            "B. will be walking",
+            "C. walk",
+            "D. am walking"
+        ],
+        "correct_answer": "A. will walk",
+        "explanation": " A\n* Căn cứ vào cách dùng của thì tương lai đơn:\n- Diễn tả một ý định, quyết định nhất thời nảy ra tại thời điểm nói.\n* Dịch nghĩa: “Bạn đã lỡ chuyến xe buýt cuối cùng.” -“Không sao, tôi sẽ đi bộ.”\n"
+    },
+    {
+        "id": "238",
+        "question": "Ben and Claire _________ to pay us a visit as soon as they _________ in their new\napartment.",
+        "answers": [
+            "A. promise – settled",
+            "B. have been promising – were settling",
+            "C. promised – are settling",
+            "D. have promised – have settled"
+        ],
+        "correct_answer": "D. have promised – have settled",
+        "explanation": " D\nGiải thích: [hiện tại đơn/hiện tại hoàn thành] as soon as [hiện tại đơn/hiện tại hoàn thành]: diễn\ntả 1 hành động xảy ra ngay khi 1 hành động khác xảy ra.\nDịch nghĩa: Ben và Claire đã hứa là sẽ thăm chúng tôi ngay khi họ ổn định ở căn hộ mới.\n"
+    },
+    {
+        "id": "239",
+        "question": "Ford _________ his friends, some of whom earn more money than he does.",
+        "answers": [
+            "A. won’t envy",
+            "B. didn’t envy",
+            "C. doesn’t envy",
+            "D. hasn’t envied"
+        ],
+        "correct_answer": "C. doesn’t envy",
+        "explanation": " C\nDịch: Ford không ghen tị với bạn của anh ta, vài người trong số họ kiếm tiền nhiều hơn anh ấy.\n=> Căn cứ theo ngữ cảnh của câu ta chia thì hiện tại đơn\n"
+    },
+    {
+        "id": "240",
+        "question": "They _________ it unless they _________ there is no other way.",
+        "answers": [
+            "A. aren’t doing – will be thinking",
+            "B. don’t do – will think",
+            "C. haven’t dome – thought",
+            "D. won’t do – think"
+        ],
+        "correct_answer": "D. won’t do – think",
+        "explanation": " D\nwon’t do – think\nGiải thích: Diễn đạt một quyết định tại thời điểm nói hoặc dự đoán không có căn cứ, thường sử\ndụng thì tương lai đơn với động từ to think trước nó\nDịch: Họ sẽ không làm trừ khi họ không nghĩ ra cách nào khác.\n"
+    },
+    {
+        "id": "241",
+        "question": "In spite of the fact that he _________ his cousin, he _________ drinking",
+        "answers": [
+            "A. warned – doesn’t stop",
+            "B. warned – didn’t stop",
+            "C. warned – hadn’t stopped",
+            "D. has warned – didn’t stop"
+        ],
+        "correct_answer": "B. warned – didn’t stop",
+        "explanation": " B\nDịch nghĩa: Mặc dù anh ấy đã cảnh báo anh họ mình nhưng anh ta vẫn không bỏ rượu.\n=> Xét theo nghĩa của câu thì câu này sẽ chia ở thì quá khứ đơn. Vì hành động “cảnh báo” chắc\nchắn đã diễn ra trong quá khứ rồi, còn việc vẫn không bỏ rượu thì có thể chia ở hiện tại hoàn\nthành để diễn tả hành động kéo dài từ quá khứ -> hiện tại; nhưng ở đây không có lựa chọn này\nnên ta có thể dùng quá khứ đơn - hiểu rằng việc anh ta vẫn chưa bỏ rượu là hành động đã xảy ra\ntrong quá khứ cùng với việc cảnh báo.\n"
+    },
+    {
+        "id": "242",
+        "question": "She _________ French since she _________ to Illinois.",
+        "answers": [
+            "A. had studied – came",
+            "B. has studied – has come",
+            "C. has been studying – came",
+            "D. studied – came"
+        ],
+        "correct_answer": "C. has been studying – came",
+        "explanation": " C\nGiải thích: S + V(hiện tại hoàn thành/ hiện tại hoàn thành tiếp diễn) + since S + V(quá khứ đơn).\nDịch nghĩa: Cô ta đã học tiếng Pháp từ khi cô ta đến Illinois.\n"
+    },
+    {
+        "id": "243",
+        "question": "Henry was packing the suitcases while his wife _________ the room.",
+        "answers": [
+            "A. was tidying",
+            "B. tidies",
+            "C. has been tidying",
+            "D. had tidied"
+        ],
+        "correct_answer": "A. was tidying",
+        "explanation": " A\nwas tidying\nGiải thích: Sau while chia thì tiếp diễn, chỉ một hành động đang diễn ra tại thời điểm đó.\nDịch: Henry thì đang đóng gói vali trong khi vợ hắn thì đang dọn phòng.\n"
+    },
+    {
+        "id": "244",
+        "question": "Christine _________ as a nurse for seven years, then she became a teacher.",
+        "answers": [
+            "A. has worked",
+            "B. has been working",
+            "C. was working",
+            "D. worked"
+        ],
+        "correct_answer": "D. worked",
+        "explanation": " D\nGiải thích: Dùng quá khứ đơn liệt kê các hành động xảy ra trong quá khứ. Nếu đáp án có “had\nworked/had been working” thì sẽ ưu tiên đáp án đó.\nDịch: Christine đã làm y tá được 7 năm, sau đó cô ấy làm giáo viên.\n"
+    },
+    {
+        "id": "245",
+        "question": "Although she lives in Tokyo, she _________ the Royal Palace.",
+        "answers": [
+            "A. didn’t visit",
+            "B. has never visited",
+            "C. is not visiting",
+            "D. hadn’t visited"
+        ],
+        "correct_answer": "B. has never visited",
+        "explanation": " B\nhas never visited\nGiải thích: Dùng thì hiện tại hoàn thành để diễn tả một hành động đã từng làm trước đây và bây\ngiờ vẫn còn làm.\nDịch: Dù cô ấy sống ở Tokyo nhưng cô ấy chưa từng tới thăm Royal Palace.\n"
+    },
+    {
+        "id": "246",
+        "question": "Before we knew what was happening, the roof _________.",
+        "answers": [
+            "A. has fallen in",
+            "B. will fall in",
+            "C. had fallen in",
+            "D. had been falling in"
+        ],
+        "correct_answer": "C. had fallen in",
+        "explanation": ": had fallen in\n* Giải thích: Before + S + V(quá khứ đơn), S + V(quá khứ hoàn thành): diễn tả một hành động\nđã xảy ra trước một hành động khác trong quá khứ.\n* Dịch nghĩa: Trước khi chúng ta biết chuyện gì đang xảy ra, mái nhà đã rơi xuống rồi.\n"
+    },
+    {
+        "id": "247",
+        "question": "They _________ how deeply the rows between his parents _________ the child.",
+        "answers": [
+            "A. didn’t realize – had affected",
+            "B. didn’t realize – have affected",
+            "C. don’t realize – affected",
+            "D. will never realize – had affected"
+        ],
+        "correct_answer": "A. didn’t realize – had affected",
+        "explanation": " A\n* Dịch nghĩa: Họ đã không nhận ra được những cuộc cãi vã giữa cha mẹ đứa trẻ ảnh hưởng sâu\nsắc đến nó như thế nào.\n- việc cãi vã xảy ra trước -> \" có ảnh hưởng lên đứa trẻ trước\" => chia thì quá khứ hoàn thành.\n- “không nhận ra được” xảy ra sau .=> chia thì quá khứ đơn.\n"
+    },
+    {
+        "id": "248",
+        "question": "These statistics _________ that life expectancy _________ quite significantly\nlonger in cold climates than that in warm ones.",
+        "answers": [
+            "A. show – was",
+            "B. show – is",
+            "C. showed – is",
+            "D. showed – will be"
+        ],
+        "correct_answer": "B. show – is",
+        "explanation": " B\nGiải thích: Dùng thì hiện tại đơn để diễn tả một sự thật hiển nhiên, 1 kết quả tất yếu.\nDịch: Những thống kê này cho thấy tuổi thọ trung bình dài hơn khá đáng kể ở vùng khí hậu lạnh\nso với những nơi ấm áp.\n"
+    },
+    {
+        "id": "249",
+        "question": "She ______________ the letter a few moments before my call came through.",
+        "answers": [
+            "A. has just opened",
+            "B. had just opened",
+            "C. just opened",
+            "D. just opens"
+        ],
+        "correct_answer": "B. had just opened",
+        "explanation": " B\nhad just opened\nGiải thích: Dùng thì quá khứ hoàn thành để diễn tả một hành động đã xảy ra trước một hành\nđộng khác trong quá khứ.\nDịch: Cô ấy vừa mới mở thư mấy phút trước khi tôi gọi.\n"
+    },
+    {
+        "id": "250",
+        "question": "As soon as the boys ___________ the hall they ___________to speak about books\nand writers.",
+        "answers": [
+            "A. entered/begun",
+            "B. were entering/began",
+            "C. entered/began",
+            "D. had\nentered/began"
+        ],
+        "correct_answer": "C. entered/began",
+        "explanation": " C\n"
+    },
+    {
+        "id": "251",
+        "question": "While we __________dinner at a restaurant, someone came to the house and\n_________ this note.",
+        "answers": [
+            "A. had had/ left",
+            "B. were having/left",
+            "C. had/left",
+            "D. were having/had left"
+        ],
+        "correct_answer": "B. were having/left",
+        "explanation": " B\nwere having/left\nGiải thích: sau while chia thì tiếp diễn; hành động đến và take note diễn ra liên tiếp nên dùng thì\nquá khứ đơn để liệt kê.\nDịch: Trong khi chúng tôi đang ăn tối ở nhà hàng, ai đó đã đến nhà và để lại tờ ghi chú đó.\n"
+    },
+    {
+        "id": "252",
+        "question": "By the end of this year we __________________ a new house.",
+        "answers": [
+            "A. will buy",
+            "B. will be buying",
+            "C. will have bought",
+            "D. had bought"
+        ],
+        "correct_answer": "C. will have bought",
+        "explanation": " C\nwill have bought\nGiải thích: Sau “by the end of this year” phải chia thì tương lai hoàn thành\nDịch: Đến cuối năm nay chúng ta sẽ đã mua nhà mới rồi.\n"
+    },
+    {
+        "id": "253",
+        "question": "“You always __________ mistakes, you need _____________the instructions more\ncarefully.”",
+        "answers": [
+            "A. make/read",
+            "B. are always making/reading",
+            "C. make/to read",
+            "D. are always making/to read"
+        ],
+        "correct_answer": "D. are always making/to read",
+        "explanation": " D\n- Căn cứ cách dùng của thì hiện tại tiếp diễn với “always”: diễn tả sự phàn nàn.\n- Cấu trúc: need to do st: cần phải làm gì (need ở đây là một động từ thường)\nNgoài ra: Need + Ving: cần được làm gì (bị động)\n=> Vế sau mang nghĩa chủ động nên ta chọn đáp án D\n- Dịch nghĩa: “Bạn luôn luôn mắc lỗi, bạn cần đọc những hướng dẫn cẩn thận hơn”.\n"
+    },
+    {
+        "id": "254",
+        "question": "Those students who ___________the exam are going to take another one held in\nAugust.",
+        "answers": [
+            "A. have failed",
+            "B. failed",
+            "C. had failed",
+            "D. were failing"
+        ],
+        "correct_answer": "B. failed",
+        "explanation": " B\nGiải thích: Căn cứ vào ngữ cảnh nói, động từ cần chia ở đây là “fail”. Hành động “fail” này là\nhành động đã xảy ra và hoàn toàn chấm dứt trong quá khứ, không còn liên quan đến hiện tại nữa\nnên ta chia ở thì quá khứ đơn.\n=> Có thể xem câu này như một lời thông báo đối với các học sinh. Lưu ý là việc “fail” nó đã kết\nthúc, không thể hiểu nó để lại kết quả ở hiện tại, hành động “phải thi lại” là hậu quả của việc\n“fail”, chứ đó không phải là kết quả của việc “fail” mà nó kéo dài rồi lưu lại kết quả ở hiện tại,\nnên không thể chia thì hoàn thành ở đây\n*Những hành động vừa mới chấm dứt và để lại kết quả ở hiện tại chẳng hạn như: trời mưa và để\nlại kết quả, dấu hiệu là đất đai ẩm ướt => việc trời mưa có thể kéo dài cho đến gần thời điểm nói\nrồi chấm dứt, lưu lại kết quả ở hiện tại\n=> Trong tình huống “fail” bài thi như này thì không thể suy luận tương tự với động từ “fail”,\nloại A\nDịch: Những học sinh mà đã thi trượt sẽ phải thi lại vào tháng 8.\n"
+    },
+    {
+        "id": "255",
+        "question": "I __________________ your brother this afternoon at Green Street.",
+        "answers": [
+            "A. met",
+            "B. had met",
+            "C. was meeting",
+            "D. have met"
+        ],
+        "correct_answer": "A. met",
+        "explanation": ": met\nGiải thích: Dùng quá khứ đơn để diễn tả một hành động đã xảy ra và chấm dứt trong quá khứ.\nDịch: Tôi đã gặp anh cậu chiều nay ở phố Greet.\n"
+    },
+    {
+        "id": "256",
+        "question": "She said she met you once at the Hilton last year. ____________ since then?",
+        "answers": [
+            "A. Have you met her",
+            "B. Did you meet her",
+            "C. Were you met her",
+            "D. Had you\nmet her"
+        ],
+        "correct_answer": "A. Have you met her",
+        "explanation": " A\nGiải thích: since => Dùng thì hoàn thành. Chia động từ ở thì hiện tại hoàn thành để nhấn mạnh\nhành động còn tiếp diễn đến hiện tại.\nDịch: Cô ta kể là đã gặp bạn ở Hilton năm ngoái. Từ đó tới giờ bạn có gặp lại cô ta không?\n"
+    },
+    {
+        "id": "257",
+        "question": "Mr. Edwards _________ history for 35 years, and is retiring soon.",
+        "answers": [
+            "A. teaches",
+            "B. is teaching",
+            "C. taught",
+            "D. has been teaching"
+        ],
+        "correct_answer": "D. has been teaching",
+        "explanation": " D\nThì hiện tại hoàn thành diễn tả hành động bắt đầu ở quá khứ và đang tiếp tục ở hiện tại\nDịch: Ngài Edwards đã dạy lịch sử được 35 rồi, và sẽ nghỉ hưu sớm thôi.\n"
+    },
+    {
+        "id": "258",
+        "question": "I’m tired. I _________ the house since 9 this morning.",
+        "answers": [
+            "A. am cleaning",
+            "B. was cleaning",
+            "C. had been cleaning",
+            "D. have been cleaning"
+        ],
+        "correct_answer": "D. have been cleaning",
+        "explanation": " D\nhave been cleaning\nGiải thích: Thì hiện tại hoàn thành diễn tả hành động bắt đầu ở quá khứ dẫn đến một kết quả ở\nhiện tại.\nDịch: Tôi mệt rồi. Tôi đã lau nhà từ 9 giờ sáng.\n"
+    },
+    {
+        "id": "259",
+        "question": "I can’t believe that you ________ all the three exercises. You just started five\nminutes ago.",
+        "answers": [
+            "A. have finished",
+            "B. have been finishing",
+            "C. finished",
+            "D. are finishing"
+        ],
+        "correct_answer": "A. have finished",
+        "explanation": ": have finished\nGiải thích: Thì hiện tại hoàn thành diễn tả hành động bắt đầu ở quá khứ và vừa mới hoàn thành.\nDịch nghĩa: Tôi không tin được là cậu làm xong hết ba bài này rồi. Cậu vừa mới bắt đầu năm\nphút trước mà.\n"
+    },
+    {
+        "id": "260",
+        "question": "- “How’s Peter doing?”\n- “I don’t know. I ________ from him for months.”",
+        "answers": [
+            "A. have to hear",
+            "B. haven’t heard",
+            "C. didn’t hear",
+            "D. don’t hear"
+        ],
+        "correct_answer": "B. haven’t heard",
+        "explanation": " B\nhaven’t heard\nGiải thích: Câu chứa “for + khoảng thời gian” sẽ chia thì hoàn thành.\nDịch: “Peter sao rồi?” – “Không biết. Mình không gặp anh ấy 5 tháng nay rồi”\n"
+    },
+    {
+        "id": "261",
+        "question": "Their children _______ lots of new friends since they ________ to that town.",
+        "answers": [
+            "A. have made – moved",
+            "B. were making – have moved",
+            "C. made - are moving",
+            "D. made – have been moving"
+        ],
+        "correct_answer": "A. have made – moved",
+        "explanation": " A\nhave made – moved\nGiải thích: [hiện tại hoàn thành] since [quá khứ đơn]: diễn tả một hành động diễn ra kể từ khi\nmột hành động khác diễn ra trong quá khứ.\nDịch: Lũ trẻ của họ làm quen được nhiều bạn mới kể từ khi chúng chuyển đến thị trấn đó.\n"
+    },
+    {
+        "id": "262",
+        "question": "He ________ a cigarette and _________ to the window.",
+        "answers": [
+            "A. lighted/walked",
+            "B. lit/was walking",
+            "C. was lighted/was walking",
+            "D. lit/had walked"
+        ],
+        "correct_answer": "A. lighted/walked",
+        "explanation": " A\nlighted/walked\nGiải thích: Dùng quá khứ đơn để liệt kê về những hành động đã xảy ra trong quá khứ.\nDịch: Anh ta châm một điếu thuốc và đi đến bên cửa sổ.\n*Note: Light - lit/lighted - lit/lighted (v): châm lửa, chiếu sáng\n"
+    },
+    {
+        "id": "263",
+        "question": "- “You ______ here before?”\n- “Yes, I ______ my holidays here last year?”",
+        "answers": [
+            "A. Were/spent",
+            "B. Have you been/spent",
+            "C. Were/had spent",
+            "D. Have you been/have spent"
+        ],
+        "correct_answer": "B. Have you been/spent",
+        "explanation": ": B\nTạm dịch: “Trước đây cậu đã đến đây chưa?” “Rồi. Năm ngoái tôi đã dành kì nghỉ của tôi ở\nđây.”\n"
+    },
+    {
+        "id": "264",
+        "question": "- “You have just missed the last train.”\n- “Never mind, I _______________.”",
+        "answers": [
+            "A. will walk",
+            "B. was walking",
+            "C. am walking",
+            "D. am going to walk"
+        ],
+        "correct_answer": "A. will walk",
+        "explanation": " A\nDịch: “Bạn vừa lỡ mất chuyến tàu cuối rồi.” \" Không sao, mình sẽ đi bộ.\"\n=> ý định đi bộ được đưa ra ngay tại thời điểm nói => dùng thì tương lai đơn\n"
+    },
+    {
+        "id": "265",
+        "question": "I ____ my sister in April as planned.",
+        "answers": [
+            "A. have seen",
+            "B. will see",
+            "C. am going to see",
+            "D. see"
+        ],
+        "correct_answer": "C. am going to see",
+        "explanation": " C\nam going to see\nGiải thích: Dùng thì tương lai gần để diễn tả một dự định, kế hoạch trong tương lai, có dẫn\nchứng cụ thể.\nDịch: Tôi sẽ đến gặp chị tôi vào tháng 4 theo kế hoạch.\n"
+    },
+    {
+        "id": "266",
+        "question": "Then about a year ago, he _________________and I _________from him since\nthen.",
+        "answers": [
+            "A. has disappeared/haven’t never heard",
+            "B. has disappeared/never heard",
+            "C. disappeared/ have never heard",
+            "D. was disappeared/had never heard"
+        ],
+        "correct_answer": "C. disappeared/ have never heard",
+        "explanation": " C\nDịch: Khoảng 1 năm trước anh ta biến mất và mình không nghe tin gì về anh ta kể từ đó.\n"
+    },
+    {
+        "id": "267",
+        "question": "After the guests ___________ she went back into the living-room and __________\noff the light.",
+        "answers": [
+            "A. left/switched",
+            "B. had left/switched",
+            "C. had left/had switched",
+            "D. had left/was switching"
+        ],
+        "correct_answer": "B. had left/switched",
+        "explanation": " B\nTạm dịch: Sau khi khách đã ra về hết, cô ấy quay trở lại phòng khách và tắt điện.\n"
+    },
+    {
+        "id": "268",
+        "question": "When Alice gets here, you ______________ her to her room?",
+        "answers": [
+            "A. will you show",
+            "B. did you show",
+            "C. have you shown",
+            "D. are you showing"
+        ],
+        "correct_answer": "A. will you show",
+        "explanation": " A\nwill you show\nGiải thích: Dùng thì tương lai đơn để diễn tả một dự định không có căn cứ rõ ràng trong tương\nlai.\nDịch: Khi Alice đến đây, cậu sẽ dẫn cô ấy đi xem phòng cô ấy chứ?\n"
+    },
+    {
+        "id": "269",
+        "question": "As Hugh and I _____________ down the steps we nearly ___________ into my\nfather.",
+        "answers": [
+            "A. came/ran",
+            "B. were coming/ran",
+            "C. had come/ran",
+            "D. came/were running"
+        ],
+        "correct_answer": "B. were coming/ran",
+        "explanation": " B\nwere coming/ran\nGiải thích: dùng quá khứ đơn để kể về một hành động trong quá khứ; Mệnh đề chứa as/while thì\nđộng từ phải chia thì tiếp diễn\nDịch: Trong khi Hugh và tôi đi xuống cầu tháng suýt nữa chúng tôi đã chạm mặt bố tôi.\n"
+    },
+    {
+        "id": "270",
+        "question": "If you want to see us, come to Tom’s on Sunday. We _______________for you\nthere at midday.",
+        "answers": [
+            "A. will wait",
+            "B. will be waiting",
+            "C. will have waited",
+            "D. will have been waiting"
+        ],
+        "correct_answer": "B. will be waiting",
+        "explanation": " B\nGiải thích: Dùng thì tương lai tiếp diễn để miêu tả 1 hành động sẽ đang xảy ra tại 1 thời điểm cụ\nthể trong tương lai.\nDịch: Nếu bạn muốn gặp chúng tôi, hãy đến nhà của Tom vào chú nhật. chúng tôi sẽ đợi bạn ở\nđó buổi trưa.\n"
+    },
+    {
+        "id": "271",
+        "question": "Come in, please. I _______________ for you long.",
+        "answers": [
+            "A. have waited",
+            "B. had waited",
+            "C. have been waiting",
+            "D. waited"
+        ],
+        "correct_answer": "C. have been waiting",
+        "explanation": " C\n=> Dùng hiện tại hoàn thành tiếp diễn để diễn tả một hành động đã xảy ra trong quá khứ một\ncách liên tục đến hiện tại\nDịch: Mời vào. Tôi đợi bạn mãi đó.\n"
+    },
+    {
+        "id": "272",
+        "question": "For a moment after their son ______________ the room, Mr and Mrs Smith\nmerely __________ and ___________ at each other.",
+        "answers": [
+            "A. had left/had stood/looked",
+            "B. had left/stood/looked",
+            "C. left/stood/looked",
+            "D. had left/had stood/had looked"
+        ],
+        "correct_answer": "B. had left/stood/looked",
+        "explanation": " B\nhad left/stood/looked\nGiải thích: dùng quá khứ đơn để kể về một hành động trong quá khứ; quá khứ hoàn thành để\ndiễn tả 1 hành động xảy ra trước một hành động khác trong quá khứ.\nDịch: Trong một khoảnh khắc sau khi con trai họ rời khỏi phòng, Ông bà Smith chỉ đứng và\nnhìn nhau.\n"
+    },
+    {
+        "id": "273",
+        "question": "When we _____________ in London tonight, it _________________.",
+        "answers": [
+            "A. arrived/was probably raining",
+            "B. arrive/ will be probably raining",
+            "C. arrived/had been probably raining",
+            "D. arrive/ will have probably rained"
+        ],
+        "correct_answer": "B. arrive/ will be probably raining",
+        "explanation": " B\nCăn cứ vào cách dùng của thì tương lai tiếp diễn:\n- Dùng để diễn tả một hành động, một sự việc đang xảy ra thì một hành động, sự việc khác xen\nvào trong tương lai.\n- “tonight” (tối nay) là mốc thời gian trong tương lai.\nDịch nghĩa: Khi chúng tôi đến London tối nay, có thể lúc đó trời sẽ đang mưa.\n- hành động đang xảy ra “trời đang mưa” bị hành động “đến” xen vào.\n"
+    },
+    {
+        "id": "274",
+        "question": "I’m afraid I must ask you both what ____________ yesterday at 10:20 p.m.",
+        "answers": [
+            "A. did you do",
+            "B. had you done",
+            "C. you were doing",
+            "D. were you doing"
+        ],
+        "correct_answer": "C. you were doing",
+        "explanation": " C\nCăn cứ vào dấu hiệu: yesterday at 10:20 p.m => chia thì quá khứ tiếp diễn. Ta loại phương án\nA, B.\nVì đây không phải là câu hỏi nên ta không cần phải đảo “were” lên trước “you”.\n=> Do đó, đáp án C\nTạm dịch: Tôi e rằng buộc phải hỏi cả hai bạn là hai bạn đang làm gì vào lúc 10:20 tối ngày\nhôm qua.\n"
+    },
+    {
+        "id": "275",
+        "question": "There _______________ great changes in our village in the past few years.",
+        "answers": [
+            "A. have been",
+            "B. had been",
+            "C. was",
+            "D. has been"
+        ],
+        "correct_answer": "A. have been",
+        "explanation": " A\n=> Căn cứ vào “in the past few years” - trong vòng vài năm qua => chia thì hiện tại hoàn thành\n=> Theo cấu trúc: There + V + N => động từ V chia theo N\nVì ở đây N là “changes” ở dạng số nhiều nên động từ chia số nhiều\nTạm dịch: Đã có những thay đổi lớn trong ngôi làng của chúng tôi trong vài năm qua.\n"
+    },
+    {
+        "id": "276",
+        "question": "The noise from the trains _________________ me terribly last night.",
+        "answers": [
+            "A. was annoyed",
+            "B. annoyed",
+            "C. has annoyed",
+            "D. had annoyed"
+        ],
+        "correct_answer": "B. annoyed",
+        "explanation": " B\nannoyed\nGiải thích: Câu chứa “last night” phải chia thì quá khứ đơn\nDịch: Tiếng ồn từ xe lửa tối qua thực sự đã làm phiền mình!\n"
+    },
+    {
+        "id": "277",
+        "question": "Listen to this! I think this news ______________you.",
+        "answers": [
+            "A. surprises",
+            "B. will surprise",
+            "C. surprised",
+            "D. would surprise"
+        ],
+        "correct_answer": "B. will surprise",
+        "explanation": " B\nwill surprise\nGiải thích: Dùng thì tương lai đơn để diễn tả 1 dự đoán không có căn cứ chắc chắn.\nDịch: Nghe kìa, mình nghĩ tin này sẽ làm cậu ngạc nhiên đấy.\n"
+    },
+    {
+        "id": "278",
+        "question": "By the end of this month, I hope I ______________200 pages of my new novel.",
+        "answers": [
+            "A. had written",
+            "B. will have written",
+            "C. will have been writing",
+            "D. have written"
+        ],
+        "correct_answer": "B. will have written",
+        "explanation": " B\nCăn cứ vào cấu trúc:\n- By + trạng từ của quá khứ => chia thì quá khứ hoàn thành\n- By + trạng từ của tương lai => chia thì tương lai hoàn thành\nCăn cứ vào dấu hiệu: By the end of this month (vào cuối của tháng này) => chia thì tương lai\nhoàn thành"
+    }
+]
